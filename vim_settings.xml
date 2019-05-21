@@ -18,10 +18,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/build/classes/java/main/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/insert.sql" timestamp="1558424786414">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558422004790">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/insert.sql" timestamp="1558424771384">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="5" />
+        <mark key="." line="6" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
@@ -38,10 +48,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://plugins.jetbrains.com/plugin/7615-doma-support</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>https://plugins.jetbrains.com/plugin/7615-doma-support</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
