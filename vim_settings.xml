@@ -23,10 +23,10 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558422004790">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="23" column="14" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558425942311">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="54" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/insert.sql" timestamp="1558424771384">
         <mark key="[" line="6" column="5" />
@@ -48,10 +48,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>U</text>
       </register>
     </registers>
     <search>
@@ -65,14 +65,86 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
