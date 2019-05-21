@@ -9,8 +9,14 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558419046363">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/db/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/selectCntBySub.sql" timestamp="1558422920692" />
       <file name="/sbtShell" timestamp="1558418855879">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/selectCntBySub.sql" timestamp="1558422930989">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558422004790">
         <mark key="[" line="23" column="14" />
@@ -32,10 +38,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(required = true)</text>
+        <text>https://plugins.jetbrains.com/plugin/7615-doma-support</text>
       </register>
       <register name="-" type="4">
-        <text>(required = true)</text>
+        <text>https://plugins.jetbrains.com/plugin/7615-doma-support</text>
       </register>
     </registers>
     <search>
@@ -54,6 +60,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
