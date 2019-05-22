@@ -11,10 +11,10 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558488463851">
-        <mark key="[" line="57" column="53" />
-        <mark key="]" line="57" column="52" />
-        <mark key="." line="57" column="52" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558491639758">
+        <mark key="[" line="71" column="5" />
+        <mark key="]" line="71" column="5" />
+        <mark key="." line="71" column="5" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
@@ -54,25 +54,28 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGludCBpbnNlcnQoU3RyaW5nIHN1YiwgIHJlYWxtLFN0cmluZyBuYW1lLFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSxTdHJpbmcgZW1haWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgID0gInJlZ2lzdGVyZWQiOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text encoding="base64">ICAgICAgICAgICAvL3VzZXJzLnJlYWxtID0gcmVhbG07</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvL4JRLnVzZXJzg2WBW4N1g4uC8I7mk76CtYK9g4aBW4NVgVtJRILFjJ+N9YFpVXNlclNlcnZpY2UuamF2YYFqCiAgICAKICAgICAgIAogICAgICAgIC8vVXNlcnMgdXNlcnMgPSB1c2VyU2VydmljZS5nZXRVc2VycyhwYXJhbSk7IAogICAgICAKICAgICAgICAvLzMujuaTvoyLicqXTJazgsmC5oLoj4iXnYLwlaqK8gogICAgICAgIC8vIINmgVuDXoLIgrWBy4NlgVuDdYOLgsmDZoFbg16Tb5heCiAgICAgICAgLy8gg2aBW4NegqCC6IHLjbeVqoKgguiCzI/qjYeNxZBWgsyP7pXxgsmNWJBWgUKNt5WqgsiCtYLMj+qNh4FBgsiCyYLggrWCyIKigUIKCiAgICAgICAgLy9MaXN0PFVzZXJzPiBsaXN0ID0gdXNlcnNTZXJ2aWNlLmdldEFsbCgpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGludCBpbnNlcnQoU3RyaW5nIHN1YiwgIHJlYWxtLFN0cmluZyBuYW1lLFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSxTdHJpbmcgZW1haWwpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAvLzEug4aBW4NVgVtJRChhY2Nlc3NUb2tlboLMc3ViamVjdJOZKYLwjuaTvoK3gumBQgogICAgICAgIC8vVXNlcnNEdG8gdXNlcnNEdG8gPSBnZXRVc2VyKCk7</text>
+        <text encoding="base64">ICAgICAgICAvL4JRLnVzZXJzg2WBW4N1g4uC8I7mk76CtYK9g4aBW4NVgVtJRILFjJ+N9YFpVXNlclNlcnZpY2UuamF2YYFqCiAgICAKICAgICAgIAogICAgICAgIC8vVXNlcnMgdXNlcnMgPSB1c2VyU2VydmljZS5nZXRVc2VycyhwYXJhbSk7IAogICAgICAKICAgICAgICAvLzMujuaTvoyLicqXTJazgsmC5oLoj4iXnYLwlaqK8gogICAgICAgIC8vIINmgVuDXoLIgrWBy4NlgVuDdYOLgsmDZoFbg16Tb5heCiAgICAgICAgLy8gg2aBW4NegqCC6IHLjbeVqoKgguiCzI/qjYeNxZBWgsyP7pXxgsmNWJBWgUKNt5WqgsiCtYLMj+qNh4FBgsiCyYLggrWCyIKigUIKCiAgICAgICAgLy9MaXN0PFVzZXJzPiBsaXN0ID0gdXNlcnNTZXJ2aWNlLmdldEFsbCgpOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIm5hbWUiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJzRHRvLmdldFVzZXIoKSk7</text>
+        <text encoding="base64">ICAgICAgICAvLzEug4aBW4NVgVtJRChhY2Nlc3NUb2tlboLMc3ViamVjdJOZKYLwjuaTvoK3gumBQgogICAgICAgIC8vVXNlcnNEdG8gdXNlcnNEdG8gPSBnZXRVc2VyKCk7</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIm5hbWUiKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHVzZXJzRHRvLmdldFVzZXIoKSk7</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text encoding="base64">ICAgICAgICAgICAvL3VzZXJzLnJlYWxtID0gcmVhbG07</text>
       </register>
     </registers>
     <search>
