@@ -11,10 +11,10 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558499400426">
-        <mark key="[" line="71" column="5" />
-        <mark key="]" line="71" column="5" />
-        <mark key="." line="71" column="5" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558501207021">
+        <mark key="[" line="66" column="1" />
+        <mark key="]" line="66" column="1" />
+        <mark key="." line="66" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558419046363">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UserService.java" timestamp="1558501463654" />
       <file name="/sbtShell" timestamp="1558418855879">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,7 +58,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgID0gInJlZ2lzdGVyZWQiOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAvL3VzZXJzLnJlYWxtID0gcmVhbG07</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLy9pZiAoKGxpc3QuZW1haWwgIT0gZW1haWwpIHx8IChsaXN0LnJlYWxtICAhPSByZWFsbSkgfHwobGlzdC5uYW1lICE9IG5hbWUpIHx8IChsaXN0LnByZWZlcnJlZFVzZXJuYW1lICE9IHByZWZlcnJlZFVzZXJuYW1lKSkgIHs=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGludCBpbnNlcnQoU3RyaW5nIHN1YiwgIHJlYWxtLFN0cmluZyBuYW1lLFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSxTdHJpbmcgZW1haWwpOwo=</text>
@@ -75,7 +76,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAvL3VzZXJzLnJlYWxtID0gcmVhbG07</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLy9pZiAoKGxpc3QuZW1haWwgIT0gZW1haWwpIHx8IChsaXN0LnJlYWxtICAhPSByZWFsbSkgfHwobGlzdC5uYW1lICE9IG5hbWUpIHx8IChsaXN0LnByZWZlcnJlZFVzZXJuYW1lICE9IHByZWZlcnJlZFVzZXJuYW1lKSkgIHs=</text>
       </register>
     </registers>
     <search>
