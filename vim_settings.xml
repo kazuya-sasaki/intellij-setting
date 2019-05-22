@@ -11,7 +11,7 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558501207021">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558502147160">
         <mark key="[" line="66" column="1" />
         <mark key="]" line="66" column="1" />
         <mark key="." line="66" column="1" />
@@ -24,7 +24,12 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558419046363">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UserService.java" timestamp="1558501463654" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UserService.java" timestamp="1558502262084" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersResultDto.java" timestamp="1558502079358">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/sbtShell" timestamp="1558418855879">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,6 +38,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/model/user/UserResult.java" timestamp="1558501883042" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersDto.java" timestamp="1558488426481">
         <mark key="[" line="6" column="21" />
         <mark key="]" line="6" column="21" />
@@ -48,7 +54,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1558416732080">
+      <file name="/fragment.java" timestamp="1558502026448">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -58,7 +64,7 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgID0gInJlZ2lzdGVyZWQiOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy9pZiAoKGxpc3QuZW1haWwgIT0gZW1haWwpIHx8IChsaXN0LnJlYWxtICAhPSByZWFsbSkgfHwobGlzdC5uYW1lICE9IG5hbWUpIHx8IChsaXN0LnByZWZlcnJlZFVzZXJuYW1lICE9IHByZWZlcnJlZFVzZXJuYW1lKSkgIHs=</text>
+        <text>import co.tripodworks.iot.alccloudkeycloak.model.user.UserInfo;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGludCBpbnNlcnQoU3RyaW5nIHN1YiwgIHJlYWxtLFN0cmluZyBuYW1lLFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSxTdHJpbmcgZW1haWwpOwo=</text>
@@ -76,7 +82,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy9pZiAoKGxpc3QuZW1haWwgIT0gZW1haWwpIHx8IChsaXN0LnJlYWxtICAhPSByZWFsbSkgfHwobGlzdC5uYW1lICE9IG5hbWUpIHx8IChsaXN0LnByZWZlcnJlZFVzZXJuYW1lICE9IHByZWZlcnJlZFVzZXJuYW1lKSkgIHs=</text>
+        <text>import co.tripodworks.iot.alccloudkeycloak.model.user.UserInfo;</text>
       </register>
     </registers>
     <search>
