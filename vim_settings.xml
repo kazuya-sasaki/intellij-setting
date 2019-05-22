@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558419046363">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UserService.java" timestamp="1558506248381" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UserService.java" timestamp="1558507984123" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersResultDto.java" timestamp="1558506423765">
         <mark key="e" line="6" column="19" />
         <mark key="[" line="6" column="19" />
@@ -50,7 +50,11 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558506855568" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558508031386">
+        <mark key="[" line="49" column="26" />
+        <mark key="]" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558431107939">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="30" column="0" />
@@ -66,7 +70,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFVzZXJSZXN1bHQgZ2V0VXNlclJlc3VsdCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBCdWlsZGVyLmJ1aWxkKFVzZXJSZXN1bHQuY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHIgLT4gci5zZXRTdGF0dXMoInN1Y2Nlc3MiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgociAtPiByLnNldE1zZygicmVnaXN0ZXJlZCIpKQogICAgICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCdWlsZGVyLmJ1aWxkKFVzZXJJbmZvLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgodSAtPiB1LnNldElkKDEyMzQ1KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKQogICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0KCk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERhdGEoVXNlckluZm8gZGF0YSkgewo=</text>
@@ -93,7 +97,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
     </registers>
     <search>
