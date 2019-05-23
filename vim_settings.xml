@@ -16,10 +16,10 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558595608685">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="32" column="52" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558596893221">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="38" column="15" />
+        <mark key="." line="38" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
@@ -83,8 +83,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX05PTkUgPSAic3VjY2VzcyI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX05PTkUgPSAic3VjY2VzcyI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CQkJIi1Ec2VydmVyLnNzbC5rZXktYWxpYXM9c2VsZnNpZ25lZF9sb2NhbGhvc3Rfc3Nsc2VydmVyIiwKCQkJIi1Ec2VydmVyLnNzbC5rZXktcGFzc3dvcmQ9Y2hhbmdlaXQiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZT1jbGFzc3BhdGg6c3NsLXNlcnZlci5qa3MiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcj1TVU4iLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS10eXBlPUpLUyI=</text>
@@ -111,7 +111,7 @@
         <text encoding="base64">ICAgIGludCBpbnNlcnQoU3RyaW5nIHN1YiwgIHJlYWxtLFN0cmluZyBuYW1lLFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSxTdHJpbmcgZW1haWwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
