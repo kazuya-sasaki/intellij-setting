@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558574377754">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1558578466061">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -16,11 +16,15 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558578974063">
+        <mark key="[" line="93" column="46" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
         <mark key="." line="14" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/build.gradle" timestamp="1558578369368" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558419046363">
         <mark key="[" line="7" column="0" />
       </file>
@@ -48,7 +52,7 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/application.properties" timestamp="1558509827682">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/application.properties" timestamp="1558579229527">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="46" />
@@ -66,7 +70,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1558502026448">
+      <file name="/fragment.java" timestamp="1558578466050">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
