@@ -52,10 +52,10 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/application.properties" timestamp="1558585180813">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/application.properties" timestamp="1558587242447">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="62" />
+        <mark key="." line="5" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/Greeting.java" timestamp="1558514205051">
         <mark key="[" line="3" column="0" />
@@ -80,7 +80,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAidGFybyIsCiAgICAgICAgICAgICAgICAgICAgYWdlOjMwCiAgICAgICAgICAgIH07</text>
       </register>
       <register name="&quot;" type="4">
-        <text>spring.main.allow-bean-definition-overriding=true</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoVXNlckluZm8uY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHUgLT4gdS5zZXRJZCgxMjM0NSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKSk=</text>
@@ -107,7 +107,7 @@
         <text encoding="base64">ICAgICAgICAvLzEug4aBW4NVgVtJRChhY2Nlc3NUb2tlboLMc3ViamVjdJOZKYLwjuaTvoK3gumBQgogICAgICAgIC8vVXNlcnNEdG8gdXNlcnNEdG8gPSBnZXRVc2VyKCk7</text>
       </register>
       <register name="-" type="4">
-        <text>spring.main.allow-bean-definition-overriding=true</text>
+        <text />
       </register>
     </registers>
     <search>
