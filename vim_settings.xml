@@ -16,7 +16,7 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558598980583" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558603684814" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
@@ -58,11 +58,11 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/Greeting.java" timestamp="1558514205051">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558600468350" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558431107939">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="29" column="27" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558603894327" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558603630211">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558595103109">
         <mark key="[" line="0" column="0" />
@@ -71,18 +71,24 @@
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBIZWxsbyBhdXRoSGVsbG8oSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIC8vICAgICByZXR1cm4gaGVsbG9TZXJ2aWNlLmF1dGhIZWxsbyhyZXF1ZXN0KTsKICAgIC8vIH0=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBIZWxsbyBhdXRoSGVsbG8oSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIC8vICAgICByZXR1cm4gaGVsbG9TZXJ2aWNlLmF1dGhIZWxsbyhyZXF1ZXN0KTsKICAgIC8vIH0=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlOw==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLzAug4qDToNHg1iDZ4/ulfGC8ERUT4LJg1qDYoNngreC6YFCCiAgICAgICAgLy8gVXNlcnNEdG8gdXNlcnNEdG8gPSBuZXcgVXNlcnNEdG8oKTsKICAgICAgICAvLyB1c2Vyc1NlcnZpY2UuYXV0aFVzZXJzKHJlcXVlc3QpOw==</text>
+        <text encoding="base64">ICAgIC8vIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvdXNlcnMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIC8vIEBSZXNwb25zZUJvZHkKICAgIC8vIHB1YmxpYyBVc2VyUmVzdWx0IGdldFVzZXJSZXN1bHQoKSB7CiAgICAvLyAgICByZXR1cm4gdXNlclNlcnZpY2UuZ2V0VXNlclJlc3VsdCgpOwogICAgLy8gfQ==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gQnVpbGRlci5idWlsZChVc2Vyc0R0by5jbGFzcykKLy8gICAgICAgICAgICAgICAgICAgIC53aXRoKGggLT4gaC5zZXREYXRhKGxhc3RJZCkpCi8vICAgICAgICAgICAgICAgICAgICAud2l0aChoIC0+IGguc2V0U3RhdHVzKGxhc3RBbGxTdHMpKQovLyAgICAgICAgICAgICAgICAgICAgLndpdGgoaCAtPiBoLnNldE1lc3NhZ2UobGFzdFByb1N0cykpCi8vICAgICAgICAg</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBIZWxsbyBhdXRoSGVsbG8oSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIC8vICAgICByZXR1cm4gaGVsbG9TZXJ2aWNlLmF1dGhIZWxsbyhyZXF1ZXN0KTsKICAgIC8vIH0=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAvLzAug4qDToNHg1iDZ4/ulfGC8ERUT4LJg1qDYoNngreC6YFCCiAgICAgICAgLy8gVXNlcnNEdG8gdXNlcnNEdG8gPSBuZXcgVXNlcnNEdG8oKTsKICAgICAgICAvLyB1c2Vyc1NlcnZpY2UuYXV0aFVzZXJzKHJlcXVlc3QpOw==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gQnVpbGRlci5idWlsZChVc2Vyc0R0by5jbGFzcykKLy8gICAgICAgICAgICAgICAgICAgIC53aXRoKGggLT4gaC5zZXREYXRhKGxhc3RJZCkpCi8vICAgICAgICAgICAgICAgICAgICAud2l0aChoIC0+IGguc2V0U3RhdHVzKGxhc3RBbGxTdHMpKQovLyAgICAgICAgICAgICAgICAgICAgLndpdGgoaCAtPiBoLnNldE1lc3NhZ2UobGFzdFByb1N0cykpCi8vICAgICAgICAg</text>
+      </register>
+      <register name="6" type="4">
         <text>//    public String getData() {
 //        return data;
 //    }
@@ -91,7 +97,7 @@
 //        this.data = data;
 //    }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>//    public UserInfo getData() {
 //        return data;
 //    }
@@ -100,20 +106,14 @@
 //        this.data = data;
 //    }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX05PTkUgPSAic3VjY2VzcyI7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CQkJIi1Ec2VydmVyLnNzbC5rZXktYWxpYXM9c2VsZnNpZ25lZF9sb2NhbGhvc3Rfc3Nsc2VydmVyIiwKCQkJIi1Ec2VydmVyLnNzbC5rZXktcGFzc3dvcmQ9Y2hhbmdlaXQiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZT1jbGFzc3BhdGg6c3NsLXNlcnZlci5qa3MiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcj1TVU4iLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS10eXBlPUpLUyI=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAidGFybyIsCiAgICAgICAgICAgICAgICAgICAgYWdlOjMwCiAgICAgICAgICAgIH07</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoVXNlckluZm8uY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHUgLT4gdS5zZXRJZCgxMjM0NSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKSk=</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAvL3JldHVybiB1c2VyU2VydmljZS5nZXRVc2VyUmVzdWx0KHJlcXVlc3QpOw==</text>
+        <text>import co.tripodworks.iot.alccloudkeycloak.model.user.UserResult;</text>
       </register>
     </registers>
     <search>
