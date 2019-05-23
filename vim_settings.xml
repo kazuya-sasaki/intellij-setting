@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558590478822">
+      <file name="/Dummy.txt" timestamp="1558591841334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -23,6 +23,11 @@
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
         <mark key="." line="14" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/build.gradle" timestamp="1558591495588">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558585567371">
         <mark key="[" line="7" column="0" />
@@ -69,7 +74,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="29" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1558590478813">
+      <file name="/fragment.java" timestamp="1558591841327">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -79,7 +84,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAidGFybyIsCiAgICAgICAgICAgICAgICAgICAgYWdlOjMwCiAgICAgICAgICAgIH07</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>processResources.destinationDir = compileJava.destinationDir</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoVXNlckluZm8uY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHUgLT4gdS5zZXRJZCgxMjM0NSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKSk=</text>
@@ -106,7 +111,7 @@
         <text encoding="base64">ICAgICAgICAvLzEug4aBW4NVgVtJRChhY2Nlc3NUb2tlboLMc3ViamVjdJOZKYLwjuaTvoK3gumBQgogICAgICAgIC8vVXNlcnNEdG8gdXNlcnNEdG8gPSBnZXRVc2VyKCk7</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>processResources.destinationDir = compileJava.destinationDir</text>
       </register>
     </registers>
     <search>
