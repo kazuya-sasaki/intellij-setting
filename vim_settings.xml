@@ -16,11 +16,7 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558596893221">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UsersService.java" timestamp="1558598980583" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
@@ -32,12 +28,14 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558585567371">
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersResultDto.java" timestamp="1558506423765">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersResultDto.java" timestamp="1558598400865">
         <mark key="e" line="6" column="19" />
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/UserService.java" timestamp="1558598328943" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UserInfo.java" timestamp="1558598154297" />
       <file name="/sbtShell" timestamp="1558418855879">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,11 +44,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersDto.java" timestamp="1558512311025">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersDto.java" timestamp="1558598616221" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/insert.sql" timestamp="1558424771384">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
@@ -64,11 +58,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/Greeting.java" timestamp="1558514205051">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558589721214">
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="26" />
-        <mark key="." line="49" column="26" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558599345736" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558431107939">
         <mark key="[" line="29" column="4" />
         <mark key="]" line="30" column="0" />
@@ -80,38 +70,50 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX05PTkUgPSAic3VjY2VzcyI7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBIZWxsbyBhdXRoSGVsbG8oSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIC8vICAgICByZXR1cm4gaGVsbG9TZXJ2aWNlLmF1dGhIZWxsbyhyZXF1ZXN0KTsKICAgIC8vIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBIZWxsbyBhdXRoSGVsbG8oSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIC8vICAgICByZXR1cm4gaGVsbG9TZXJ2aWNlLmF1dGhIZWxsbyhyZXF1ZXN0KTsKICAgIC8vIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CQkJIi1Ec2VydmVyLnNzbC5rZXktYWxpYXM9c2VsZnNpZ25lZF9sb2NhbGhvc3Rfc3Nsc2VydmVyIiwKCQkJIi1Ec2VydmVyLnNzbC5rZXktcGFzc3dvcmQ9Y2hhbmdlaXQiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZT1jbGFzc3BhdGg6c3NsLXNlcnZlci5qa3MiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcj1TVU4iLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS10eXBlPUpLUyI=</text>
+        <text encoding="base64">ICAgICAgICAvLzAug4qDToNHg1iDZ4/ulfGC8ERUT4LJg1qDYoNngreC6YFCCiAgICAgICAgLy8gVXNlcnNEdG8gdXNlcnNEdG8gPSBuZXcgVXNlcnNEdG8oKTsKICAgICAgICAvLyB1c2Vyc1NlcnZpY2UuYXV0aFVzZXJzKHJlcXVlc3QpOw==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAidGFybyIsCiAgICAgICAgICAgICAgICAgICAgYWdlOjMwCiAgICAgICAgICAgIH07</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByZXR1cm4gQnVpbGRlci5idWlsZChVc2Vyc0R0by5jbGFzcykKLy8gICAgICAgICAgICAgICAgICAgIC53aXRoKGggLT4gaC5zZXREYXRhKGxhc3RJZCkpCi8vICAgICAgICAgICAgICAgICAgICAud2l0aChoIC0+IGguc2V0U3RhdHVzKGxhc3RBbGxTdHMpKQovLyAgICAgICAgICAgICAgICAgICAgLndpdGgoaCAtPiBoLnNldE1lc3NhZ2UobGFzdFByb1N0cykpCi8vICAgICAgICAg</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoVXNlckluZm8uY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHUgLT4gdS5zZXRJZCgxMjM0NSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKSk=</text>
+        <text>//    public String getData() {
+//        return data;
+//    }
+//
+//    public void setData(String data) {
+//        this.data = data;
+//    }</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFVzZXJSZXN1bHQgZ2V0VXNlclJlc3VsdCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBCdWlsZGVyLmJ1aWxkKFVzZXJSZXN1bHQuY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHIgLT4gci5zZXRTdGF0dXMoInN1Y2Nlc3MiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgociAtPiByLnNldE1zZygicmVnaXN0ZXJlZCIpKQogICAgICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCdWlsZGVyLmJ1aWxkKFVzZXJJbmZvLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgodSAtPiB1LnNldElkKDEyMzQ1KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKQogICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgICAgICAgICAuZ2V0KCk7CiAgICAgICAgICAgIH0=</text>
+        <text>//    public UserInfo getData() {
+//        return data;
+//    }
+//
+//    public void setData(UserInfo data) {
+//        this.data = data;
+//    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldERhdGEoVXNlckluZm8gZGF0YSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX05PTkUgPSAic3VjY2VzcyI7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQnVpbGRlci5idWlsZChVc2VyUmVzdWx0LmNsYXNzKQogICAgICAgICAgICAgICAgLndpdGgociAtPiByLnNldFN0YXR1cygic3VjY2VzcyIpKQogICAgICAgICAgICAgICAgLndpdGgociAtPiByLnNldE1zZygicmVnaXN0ZXJlZCIpKQogICAgICAgICAgICAgICAgLndpdGgociAtPiByLnNldERhdGEoCiAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoVXNlckluZm8uY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgodSAtPiB1LnNldElkKDEyMzQ1KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0KCkKICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAuZ2V0KCk7</text>
+        <text encoding="base64">CQkJIi1Ec2VydmVyLnNzbC5rZXktYWxpYXM9c2VsZnNpZ25lZF9sb2NhbGhvc3Rfc3Nsc2VydmVyIiwKCQkJIi1Ec2VydmVyLnNzbC5rZXktcGFzc3dvcmQ9Y2hhbmdlaXQiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZT1jbGFzc3BhdGg6c3NsLXNlcnZlci5qa3MiLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcj1TVU4iLAoJCQkiLURzZXJ2ZXIuc3NsLmtleS1zdG9yZS10eXBlPUpLUyI=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgID0gInJlZ2lzdGVyZWQiOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9iaiA9IHsKICAgICAgICAgICAgICAgICAgICBuYW1lOiAidGFybyIsCiAgICAgICAgICAgICAgICAgICAgYWdlOjMwCiAgICAgICAgICAgIH07</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBpbnNlcnQoU3RyaW5nIHN1YiwgIHJlYWxtLFN0cmluZyBuYW1lLFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSxTdHJpbmcgZW1haWwpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAud2l0aChyIC0+IHIuc2V0RGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoVXNlckluZm8uY2xhc3MpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKHUgLT4gdS5zZXRJZCgxMjM0NSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKSk=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">ICAgICAgICAvL3JldHVybiB1c2VyU2VydmljZS5nZXRVc2VyUmVzdWx0KHJlcXVlc3QpOw==</text>
       </register>
     </registers>
     <search>
