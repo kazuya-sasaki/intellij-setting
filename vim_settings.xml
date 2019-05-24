@@ -68,7 +68,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558686689154" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558688543935" />
       <file name="/fragment.java" timestamp="1558686313088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -77,39 +77,40 @@
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholsController.java" timestamp="1558686711551">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholsController.java" timestamp="1558688583678">
+        <mark key="[" line="24" column="67" />
+        <mark key="]" line="24" column="67" />
+        <mark key="." line="24" column="67" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="4">
-        <text>@CrossOrigin(&quot;*&quot;)
-@Controller
-@RequestMapping(&quot;/api/v1&quot;)</text>
+        <text encoding="base64">ICAKICAgIAogICAgICAgIA==</text>
       </register>
       <register name="&quot;" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>@CrossOrigin(&quot;*&quot;)
 @Controller
 @RequestMapping(&quot;/api/v1&quot;)</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgobGlzdC5lbWFpbC5lcXVhbHMoZW1haWwpKSAmJiAgKGxpc3QucmVhbG0uZXF1YWxzKHJlYWxtKSkgJiYgIChsaXN0Lm5hbWUuZXF1YWxzKG5hbWUpKSAmJiAgKGxpc3QucHJlZmVycmVkVXNlcm5hbWUuZXF1YWxzKHByZWZlcnJlZFVzZXJuYW1lKSkpIHsKICAgICAgICAgICAgICAgICAgICAvL5JsgqqVz4LtgueCyIKij+qNh4LNib2C4IK1gsiCogogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvL5JsgsmNt5WqgqqCoILpj+qNh4LNVVBEQVRFCiAgICAgICAgICAgICAgICAgICAgaW50IGNudCA9IHVzZXJzRGFvLnVwZGF0ZUJ5U3ViKHN1YixyZWFsbSxuYW1lLHByZWZlcnJlZFVzZXJuYW1lLGVtYWlsKTsKICAgICAgICAgICAgICAgICAgICBzdHJQcm9zdHMgPSBTVEFUVVNfVVBEOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//import co.tripodworks.iot.alccloudkeycloak.model.hello.Hello;
 //import co.tripodworks.iot.alccloudkeycloak.model.hello.KeycloakInfo;</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//            return Builder.build(UsersDto.class)
 //                    .with(usersDto.setData(&quot;1&quot;))
 //                    .with(usersDto.setStatus(&quot;success&quot;))
 //                    .with(usersDto.setMessage(prosts))
 //                    .get();</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>#server.port=8180
 
 #spring.datasource.url=jdbc:mysql://172.16.1.126:3306/${MYSQL_DATABASE:alc_db}?useSSL=false
@@ -117,23 +118,20 @@
 #spring.datasource.password=${MYSQL_PASSWORD:tr1p0d}
 #spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>// public interface IHelloService {
 //     Hello authHello(HttpServletRequest request);
 //     Hello freeHello();
 // }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlOw==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIC8vIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvdXNlcnMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIC8vIEBSZXNwb25zZUJvZHkKICAgIC8vIHB1YmxpYyBVc2VyUmVzdWx0IGdldFVzZXJSZXN1bHQoKSB7CiAgICAvLyAgICByZXR1cm4gdXNlclNlcnZpY2UuZ2V0VXNlclJlc3VsdCgpOwogICAgLy8gfQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBIZWxsbyBhdXRoSGVsbG8oSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKICAgIC8vICAgICByZXR1cm4gaGVsbG9TZXJ2aWNlLmF1dGhIZWxsbyhyZXF1ZXN0KTsKICAgIC8vIH0=</text>
-      </register>
       <register name="-" type="4">
-        <text>distributionBase=GRADLE_USER_HOME</text>
+        <text />
       </register>
     </registers>
     <search>
