@@ -75,12 +75,17 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558585567371">
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/keycloak.json" timestamp="1558923778992">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/application.properties" timestamp="1558676363794">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1558922779549">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1558923518491">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
@@ -88,8 +93,8 @@
       <file name="/fragment.java" timestamp="1558686313088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholsController.java" timestamp="1558688583678">
-        <mark key="[" line="24" column="67" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholsController.java" timestamp="1558924184764">
+        <mark key="[" line="18" column="43" />
         <mark key="]" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
@@ -100,43 +105,62 @@
         <text>I</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgaWQgYmluYXJ5IG5vdCBudWxsIHByaW1hcnkga2V5LAogICAgaWRfdXNlcnMgaW50KDExKSBub3QgbnVsbCwKICAgIGpzb25fZGF0YSBKU09OIG5vdCBudWxsLAogICAgY3JlYXRlZF9hdCB0aW1lc3RhbXAgbm90IG51bGwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCk7CgogICAgCg==</text>
+        <text>/*{
+//  &quot;realm&quot;: &quot;tpw-iotsol-developers&quot;,
+//  &quot;auth-server-url&quot;: &quot;https://iotsol-kc.tripodw.biz/auth&quot;,
+//  &quot;ssl-required&quot;: &quot;external&quot;,
+//  &quot;resource&quot;: &quot;ALC-Cloud&quot;,
+//  &quot;public-client&quot;: true,
+//  &quot;verify-token-audience&quot;: true,
+//  &quot;use-resource-role-mappings&quot;: true,
+//  &quot;confidential-port&quot;: 0
+}*/</text>
       </register>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>/*{
+//  &quot;realm&quot;: &quot;tpw-iotsol-developers&quot;,
+//  &quot;auth-server-url&quot;: &quot;https://iotsol-kc.tripodw.biz/auth&quot;,
+//  &quot;ssl-required&quot;: &quot;external&quot;,
+//  &quot;resource&quot;: &quot;ALC-Cloud&quot;,
+//  &quot;public-client&quot;: true,
+//  &quot;verify-token-audience&quot;: true,
+//  &quot;use-resource-role-mappings&quot;: true,
+//  &quot;confidential-port&quot;: 0
+}*/</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHB1YmxpYyBTdHJpbmcgcmVhbG07CgogICAgQENvbHVtbgogICAgcHVibGljIFN0cmluZyBuYW1lOw==</text>
+        <text encoding="base64">ICAgaWQgYmluYXJ5IG5vdCBudWxsIHByaW1hcnkga2V5LAogICAgaWRfdXNlcnMgaW50KDExKSBub3QgbnVsbCwKICAgIGpzb25fZGF0YSBKU09OIG5vdCBudWxsLAogICAgY3JlYXRlZF9hdCB0aW1lc3RhbXAgbm90IG51bGwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCk7CgogICAgCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBAQ29sdW1uCiAgICBwdWJsaWMgU3RyaW5nIGVtYWlsOw==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHB1YmxpYyBTdHJpbmcgcmVhbG07CgogICAgQENvbHVtbgogICAgcHVibGljIFN0cmluZyBuYW1lOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0idXBkYXRlZF9hdCIpCiAgICBwdWJsaWMgVGltZXN0YW1wIHVwZGF0ZWRBdDs=</text>
+        <text encoding="base64">CiAgICBAQ29sdW1uCiAgICBwdWJsaWMgU3RyaW5nIGVtYWlsOw==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAvL3VzZXJzg2WBW4N1g4uCqYLnk6+I6nN1YoLMg2aBW4NegvCO5pO+CiAgICAgICAgQFNlbGVjdAogICAgICAgIFVzZXJzIHNlbGVjdEJ5U3ViKFN0cmluZyBzdWIpOw==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0idXBkYXRlZF9hdCIpCiAgICBwdWJsaWMgVGltZXN0YW1wIHVwZGF0ZWRBdDs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAvL3VzZXJzg2WBW4N1g4uCzJOviOpzdWKCzINmgVuDXoLwjViQVgogICAgICAgIEBVcGRhdGUoc3FsRmlsZSA9IHRydWUpCiAgICAgICAgaW50IHVwZGF0ZUJ5U3ViKFN0cmluZyBzdWIsIFN0cmluZyByZWFsbSxTdHJpbmcgbmFtZSxTdHJpbmcgcHJlZmVycmVkVXNlcm5hbWUsU3RyaW5nIGVtYWlsKTsKCiAgICAgICAgLy91c2Vyc4NlgVuDdYOLgsmDZoFbg16C8JBWi0uRfZP8U3RyaW5nCiAgICAgICAgQEluc2VydChzcWxGaWxlID0gdHJ1ZSkKICAgICAgICBpbnQgaW5zZXJ0KFN0cmluZyBzdWIsICBTdHJpbmcgcmVhbG0sU3RyaW5nIG5hbWUsU3RyaW5nIHByZWZlcnJlZFVzZXJuYW1lLFN0cmluZyBlbWFpbCk7</text>
+        <text encoding="base64">ICAgICAgICAvL3VzZXJzg2WBW4N1g4uCqYLnk6+I6nN1YoLMg2aBW4NegvCO5pO+CiAgICAgICAgQFNlbGVjdAogICAgICAgIFVzZXJzIHNlbGVjdEJ5U3ViKFN0cmluZyBzdWIpOw==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAKICAgIAogICAgICAgIA==</text>
+        <text encoding="base64">ICAgICAgICAvL3VzZXJzg2WBW4N1g4uCzJOviOpzdWKCzINmgVuDXoLwjViQVgogICAgICAgIEBVcGRhdGUoc3FsRmlsZSA9IHRydWUpCiAgICAgICAgaW50IHVwZGF0ZUJ5U3ViKFN0cmluZyBzdWIsIFN0cmluZyByZWFsbSxTdHJpbmcgbmFtZSxTdHJpbmcgcHJlZmVycmVkVXNlcm5hbWUsU3RyaW5nIGVtYWlsKTsKCiAgICAgICAgLy91c2Vyc4NlgVuDdYOLgsmDZoFbg16C8JBWi0uRfZP8U3RyaW5nCiAgICAgICAgQEluc2VydChzcWxGaWxlID0gdHJ1ZSkKICAgICAgICBpbnQgaW5zZXJ0KFN0cmluZyBzdWIsICBTdHJpbmcgcmVhbG0sU3RyaW5nIG5hbWUsU3RyaW5nIHByZWZlcnJlZFVzZXJuYW1lLFN0cmluZyBlbWFpbCk7</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">ICAKICAgIAogICAgICAgIA==</text>
+      </register>
+      <register name="9" type="4">
         <text>@CrossOrigin(&quot;*&quot;)
 @Controller
 @RequestMapping(&quot;/api/v1&quot;)</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgobGlzdC5lbWFpbC5lcXVhbHMoZW1haWwpKSAmJiAgKGxpc3QucmVhbG0uZXF1YWxzKHJlYWxtKSkgJiYgIChsaXN0Lm5hbWUuZXF1YWxzKG5hbWUpKSAmJiAgKGxpc3QucHJlZmVycmVkVXNlcm5hbWUuZXF1YWxzKHByZWZlcnJlZFVzZXJuYW1lKSkpIHsKICAgICAgICAgICAgICAgICAgICAvL5JsgqqVz4LtgueCyIKij+qNh4LNib2C4IK1gsiCogogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAvL5JsgsmNt5WqgqqCoILpj+qNh4LNVVBEQVRFCiAgICAgICAgICAgICAgICAgICAgaW50IGNudCA9IHVzZXJzRGFvLnVwZGF0ZUJ5U3ViKHN1YixyZWFsbSxuYW1lLHByZWZlcnJlZFVzZXJuYW1lLGVtYWlsKTsKICAgICAgICAgICAgICAgICAgICBzdHJQcm9zdHMgPSBTVEFUVVNfVVBEOwogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text />
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-offset />
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
