@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/Users.java" timestamp="1558921710688" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao/selectAll.sql" timestamp="1558922099925">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao/selectAll.sql" timestamp="1558930465600">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/selectBySub.sql" timestamp="1558676223996">
@@ -15,11 +15,11 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/Alcohols.java" timestamp="1558921942577" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao.java" timestamp="1558922403316">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/Alcohols.java" timestamp="1558930226742" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao.java" timestamp="1558930936245">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1558418855879">
         <mark key="[" line="0" column="0" />
@@ -35,6 +35,7 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/selectBySub.sql" timestamp="1558930534624" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/updateBySub.sql" timestamp="1558676090204">
         <mark key="[" line="1" column="22" />
       </file>
@@ -49,6 +50,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558931667193" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1558677078320">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
@@ -62,16 +64,17 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/GreetingController.java" timestamp="1558514560520">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558921352867" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558930842915" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
         <mark key="." line="14" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1558922605055" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1558931473870" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/build.gradle" timestamp="1558594911013">
         <mark key="[" line="71" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558931856606" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/keycloak.json" timestamp="1558585567371">
         <mark key="[" line="7" column="0" />
       </file>
@@ -85,11 +88,7 @@
         <mark key="]" line="1" column="36" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1558923518491">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1558932015938" />
       <file name="/fragment.java" timestamp="1558686313088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,6 +97,9 @@
         <mark key="]" line="24" column="67" />
         <mark key="." line="24" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao/selectByIdUsers.sql" timestamp="1558930548832">
+        <mark key="[" line="0" column="22" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
@@ -105,18 +107,12 @@
         <text>I</text>
       </register>
       <register name="1" type="4">
-        <text>/*{
-//  &quot;realm&quot;: &quot;tpw-iotsol-developers&quot;,
-//  &quot;auth-server-url&quot;: &quot;https://iotsol-kc.tripodw.biz/auth&quot;,
-//  &quot;ssl-required&quot;: &quot;external&quot;,
-//  &quot;resource&quot;: &quot;ALC-Cloud&quot;,
-//  &quot;public-client&quot;: true,
-//  &quot;verify-token-audience&quot;: true,
-//  &quot;use-resource-role-mappings&quot;: true,
-//  &quot;confidential-port&quot;: 0
-}*/</text>
+        <text encoding="base64">ICAgICAgICBLZXljbG9ha1NlY3VyaXR5Q29udGV4dCBrZXljbG9ha1NlY3VyaXR5Q29udGV4dCA9IChLZXljbG9ha1NlY3VyaXR5Q29udGV4dCkgcmVxdWVzdAogICAgICAgICAgICAgICAgLmdldEF0dHJpYnV0ZShLZXljbG9ha1NlY3VyaXR5Q29udGV4dC5jbGFzcy5nZXROYW1lKCkpOwoKICAgICAgICBBY2Nlc3NUb2tlbiBhY2Nlc3NUb2tlbiA9IGtleWNsb2FrU2VjdXJpdHlDb250ZXh0LmdldFRva2VuKCk7CiAgICAgICAga2V5Y2xvYWtTZWN1cml0eUNvbnRleHQuZ2V0SWRUb2tlbigpOwoKICAgICAgICBVc2Vyc0R0byB1c2Vyc0R0byA9IG5ldyBVc2Vyc0R0bygpOwogICAgICAgIEtleWNsb2FrSW5mbyBrZXljbG9ha0luZm8gPSBuZXcgS2V5Y2xvYWtJbmZvKCk7CiAgICAgICAga2V5Y2xvYWtJbmZvLnNldEFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsKICAgICAgICB1c2Vyc0R0by5zZXRVc2VyKGtleWNsb2FrSW5mbyk7CgogICAgICAgIC8vQWNjZXNzVG9rZW6P7pXxgvCO5pO+greC6YFCCiAgICAgICAgU3RyaW5nIHN1YiA9IGtleWNsb2FrSW5mby5nZXRBY2Nlc3NUb2tlbigpLmdldFN1YmplY3QoKTsKICAgICAgICBTdHJpbmcgcmVhbG0gPSBrZXljbG9ha1NlY3VyaXR5Q29udGV4dC5nZXRSZWFsbSgpOwogICAgICAgIFN0cmluZyBuYW1lID0ga2V5Y2xvYWtJbmZvLmdldEFjY2Vzc1Rva2VuKCkuZ2V0TmFtZSgpOwogICAgICAgIFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSA9IGtleWNsb2FrSW5mby5nZXRBY2Nlc3NUb2tlbigpLmdldFByZWZlcnJlZFVzZXJuYW1lKCk7CiAgICAgICAgU3RyaW5nIGVtYWlsID0ga2V5Y2xvYWtJbmZvLmdldEFjY2Vzc1Rva2VuKCkuZ2V0RW1haWwoKTs=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBLZXljbG9ha1NlY3VyaXR5Q29udGV4dCBrZXljbG9ha1NlY3VyaXR5Q29udGV4dCA9IChLZXljbG9ha1NlY3VyaXR5Q29udGV4dCkgcmVxdWVzdAogICAgICAgICAgICAgICAgLmdldEF0dHJpYnV0ZShLZXljbG9ha1NlY3VyaXR5Q29udGV4dC5jbGFzcy5nZXROYW1lKCkpOwoKICAgICAgICBBY2Nlc3NUb2tlbiBhY2Nlc3NUb2tlbiA9IGtleWNsb2FrU2VjdXJpdHlDb250ZXh0LmdldFRva2VuKCk7CiAgICAgICAga2V5Y2xvYWtTZWN1cml0eUNvbnRleHQuZ2V0SWRUb2tlbigpOwoKICAgICAgICBVc2Vyc0R0byB1c2Vyc0R0byA9IG5ldyBVc2Vyc0R0bygpOwogICAgICAgIEtleWNsb2FrSW5mbyBrZXljbG9ha0luZm8gPSBuZXcgS2V5Y2xvYWtJbmZvKCk7CiAgICAgICAga2V5Y2xvYWtJbmZvLnNldEFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsKICAgICAgICB1c2Vyc0R0by5zZXRVc2VyKGtleWNsb2FrSW5mbyk7CgogICAgICAgIC8vQWNjZXNzVG9rZW6P7pXxgvCO5pO+greC6YFCCiAgICAgICAgU3RyaW5nIHN1YiA9IGtleWNsb2FrSW5mby5nZXRBY2Nlc3NUb2tlbigpLmdldFN1YmplY3QoKTsKICAgICAgICBTdHJpbmcgcmVhbG0gPSBrZXljbG9ha1NlY3VyaXR5Q29udGV4dC5nZXRSZWFsbSgpOwogICAgICAgIFN0cmluZyBuYW1lID0ga2V5Y2xvYWtJbmZvLmdldEFjY2Vzc1Rva2VuKCkuZ2V0TmFtZSgpOwogICAgICAgIFN0cmluZyBwcmVmZXJyZWRVc2VybmFtZSA9IGtleWNsb2FrSW5mby5nZXRBY2Nlc3NUb2tlbigpLmdldFByZWZlcnJlZFVzZXJuYW1lKCk7CiAgICAgICAgU3RyaW5nIGVtYWlsID0ga2V5Y2xvYWtJbmZvLmdldEFjY2Vzc1Rva2VuKCkuZ2V0RW1haWwoKTs=</text>
+      </register>
+      <register name="2" type="4">
         <text>/*{
 //  &quot;realm&quot;: &quot;tpw-iotsol-developers&quot;,
 //  &quot;auth-server-url&quot;: &quot;https://iotsol-kc.tripodw.biz/auth&quot;,
@@ -128,34 +124,29 @@
 //  &quot;confidential-port&quot;: 0
 }*/</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgaWQgYmluYXJ5IG5vdCBudWxsIHByaW1hcnkga2V5LAogICAgaWRfdXNlcnMgaW50KDExKSBub3QgbnVsbCwKICAgIGpzb25fZGF0YSBKU09OIG5vdCBudWxsLAogICAgY3JlYXRlZF9hdCB0aW1lc3RhbXAgbm90IG51bGwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCk7CgogICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHB1YmxpYyBTdHJpbmcgcmVhbG07CgogICAgQENvbHVtbgogICAgcHVibGljIFN0cmluZyBuYW1lOw==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBAQ29sdW1uCiAgICBwdWJsaWMgU3RyaW5nIGVtYWlsOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIEBDb2x1bW4obmFtZT0idXBkYXRlZF9hdCIpCiAgICBwdWJsaWMgVGltZXN0YW1wIHVwZGF0ZWRBdDs=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAvL3VzZXJzg2WBW4N1g4uCqYLnk6+I6nN1YoLMg2aBW4NegvCO5pO+CiAgICAgICAgQFNlbGVjdAogICAgICAgIFVzZXJzIHNlbGVjdEJ5U3ViKFN0cmluZyBzdWIpOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAvL3VzZXJzg2WBW4N1g4uCzJOviOpzdWKCzINmgVuDXoLwjViQVgogICAgICAgIEBVcGRhdGUoc3FsRmlsZSA9IHRydWUpCiAgICAgICAgaW50IHVwZGF0ZUJ5U3ViKFN0cmluZyBzdWIsIFN0cmluZyByZWFsbSxTdHJpbmcgbmFtZSxTdHJpbmcgcHJlZmVycmVkVXNlcm5hbWUsU3RyaW5nIGVtYWlsKTsKCiAgICAgICAgLy91c2Vyc4NlgVuDdYOLgsmDZoFbg16C8JBWi0uRfZP8U3RyaW5nCiAgICAgICAgQEluc2VydChzcWxGaWxlID0gdHJ1ZSkKICAgICAgICBpbnQgaW5zZXJ0KFN0cmluZyBzdWIsICBTdHJpbmcgcmVhbG0sU3RyaW5nIG5hbWUsU3RyaW5nIHByZWZlcnJlZFVzZXJuYW1lLFN0cmluZyBlbWFpbCk7</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAKICAgIAogICAgICAgIA==</text>
       </register>
-      <register name="9" type="4">
-        <text>@CrossOrigin(&quot;*&quot;)
-@Controller
-@RequestMapping(&quot;/api/v1&quot;)</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgIFVzZXJzIHNlbGVjdEJ5U3ViKFN0cmluZyBzdWIpOw==</text>
       </register>
     </registers>
     <search>
