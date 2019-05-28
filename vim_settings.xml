@@ -3,20 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/Users.java" timestamp="1558921710688" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao/selectAll.sql" timestamp="1558930465600">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/vAlcoholsDao/selectBySub.sql" timestamp="1559005844291">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/build/classes/java/main/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/insert.sql" timestamp="1558424786414">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V2__create_tables.sql" timestamp="1558946458900">
-        <mark key="[" line="14" column="13" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V2__create_tables.sql" timestamp="1559006958327">
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="o" line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/vAlcohols.java" timestamp="1558946465080" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/Alcohols.java" timestamp="1558946301437" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao.java" timestamp="1558947818317">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -27,7 +30,6 @@
         <mark key="]" line="11" column="16" />
         <mark key="." line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1558939692726" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/selectCntBySub.sql" timestamp="1558676073729">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="19" />
@@ -38,37 +40,31 @@
         <mark key="]" line="6" column="5" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao/selectBySub.sql" timestamp="1558947521716" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558603630211">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1558933019380" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1558677078320">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558689310789">
+      <file name="/Dummy.txt" timestamp="1558948923034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/UsersDao.java" timestamp="1558930842915" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558404556551">
         <mark key="[" line="14" column="103" />
         <mark key="]" line="14" column="103" />
         <mark key="." line="14" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1558932909287" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558931856606" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/keycloak.json" timestamp="1558923778992">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/vAlcoholsDao/selectbySub.sql" timestamp="1558947527512" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak2/src/main/resources/application.properties" timestamp="1558676363794">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
@@ -87,7 +83,6 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao/selectByIdUsers.sql" timestamp="1558944974436">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/application.properties" timestamp="1558941356551" />
     </filemarks>
     <jumps />
     <registers>
@@ -98,7 +93,7 @@
         <text encoding="base64">ICAgIExpc3Q8QWxjb2hvbHM+IHNlbGVjdEJ5U3ViKEludGVnZXIgc3ViKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>idUsers</text>
+        <text>usage_count</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIExpc3Q8QWxjb2hvbHM+IHNlbGVjdEJ5U3ViKEludGVnZXIgc3ViKTsK</text>
@@ -134,7 +129,7 @@
         <text encoding="base64">CiAgICBAQ29sdW1uCiAgICBwdWJsaWMgU3RyaW5nIGVtYWlsOw==</text>
       </register>
       <register name="-" type="4">
-        <text>idUsers</text>
+        <text>usage_count</text>
       </register>
     </registers>
     <search>
