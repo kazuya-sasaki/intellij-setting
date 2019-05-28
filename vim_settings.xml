@@ -75,11 +75,7 @@
         <mark key="]" line="33" column="16" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholsController.java" timestamp="1559010906576">
-        <mark key="[" line="37" column="4" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholsController.java" timestamp="1559012285603" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholsDao/selectByIdUsers.sql" timestamp="1558944974436">
         <mark key="[" line="0" column="22" />
       </file>
@@ -93,7 +89,7 @@
         <text encoding="base64">ICAgIExpc3Q8QWxjb2hvbHM+IHNlbGVjdEJ5U3ViKEludGVnZXIgc3ViKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>usage_count</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIExpc3Q8QWxjb2hvbHM+IHNlbGVjdEJ5U3ViKEludGVnZXIgc3ViKTsK</text>
@@ -129,7 +125,7 @@
         <text encoding="base64">CiAgICBAQ29sdW1uCiAgICBwdWJsaWMgU3RyaW5nIGVtYWlsOw==</text>
       </register>
       <register name="-" type="4">
-        <text>usage_count</text>
+        <text />
       </register>
     </registers>
     <search>
