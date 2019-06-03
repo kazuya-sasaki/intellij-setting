@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/vAlcoholsDao/selectBySub.sql" timestamp="1559005844291">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559546577384">
+      <file name="/Dummy.txt" timestamp="1559547609965">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,8 +28,8 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559292487998">
-        <mark key="[" line="41" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
+        <mark key="[" line="20" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559544442116">
         <mark key="[" line="30" column="58" />
@@ -67,7 +67,7 @@
         <text encoding="base64">ICAgIC8vQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9hbGNvaG9scyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIC8vQFJlc3BvbnNlQm9keQogICAgLy9wdWJsaWMgQWxjb2hvbFJlc3VsdCBwb3N0QWxjb2hvbFJlc3VsdChAUmVxdWVzdEJvZHkgQWxjb2hvbEluZm9EdG8gYWxjb2hvbEluZm9EdG8pIHsKICAgIC8vICAgIHJldHVybiBhbGNvaG9sU2VydmljZS5wb3N0QWxjb2hvbFJlc3VsdChhbGNvaG9sSW5mb0R0byk7CiAgICAvL30=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import co.tripodworks.iot.alccloudkeycloak.dto.UsersDto;</text>
+        <text>controlle</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">bCk7CiAgICA=</text>
@@ -94,7 +94,7 @@
         <text encoding="base64">ICAgICAgICB0cnl7CiAgICAgICAgICAgIC8vglAug0GDi4NSgVuDi4Nag5ODVIFbg2aBW4NejuaTvoNUgVuDcoNYjsCNcw==</text>
       </register>
       <register name="-" type="4">
-        <text>import co.tripodworks.iot.alccloudkeycloak.dto.UsersDto;</text>
+        <text>controlle</text>
       </register>
     </registers>
     <search>
