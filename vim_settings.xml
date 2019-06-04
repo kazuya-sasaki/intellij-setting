@@ -32,10 +32,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559544442116">
         <mark key="[" line="30" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/keycloak.json" timestamp="1559553581278">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/keycloak.json" timestamp="1559611234124">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1559278711271">
         <mark key="[" line="13" column="0" />
