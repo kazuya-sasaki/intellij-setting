@@ -30,9 +30,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559614020266">
         <mark key="[" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholViewDao.java" timestamp="1559788254452">
-        <mark key="[" line="15" column="44" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholViewDao.java" timestamp="1559802931073" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholController.java" timestamp="1559786784119" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1559638511083">
         <mark key="[" line="60" column="22" />
@@ -50,6 +48,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UserController.java" timestamp="1559800307854">
+        <mark key="[" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UserDto.java" timestamp="1559711804355">
         <mark key="[" line="19" column="3" />
       </file>
@@ -60,19 +61,19 @@
         <mark key="[" line="27" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UserService.java" timestamp="1559782362856" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholViewDao/selectBySub.sql" timestamp="1559788278421">
-        <mark key="[" line="5" column="39" />
-        <mark key="]" line="5" column="39" />
-        <mark key="." line="5" column="39" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholViewDao/selectBySub.sql" timestamp="1559802852757">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholDao/insert.sql" timestamp="1559783796526" />
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1559798347253">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1559803151978">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="59" column="95" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
@@ -118,40 +119,40 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIC8vdXNlcnODZYFbg3WDi4KpgueTr4jqc3VigsyDZoFbg16C8IyfjfUKICAgIEBTZWxlY3QKICAgIGludCBzZWxlY3RDbnRCeVN1YihTdHJpbmcgc3ViKTs=</text>
+        <text encoding="base64">IExJTUlUIC8qIGxpbWl0ICovJzEwJwogT0ZGU0VUIC8qIG9mZnNldCAqLyc1Jw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>import org.seasar.doma.jdbc.SelectOptions;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIC8vdXNlcnODZYFbg3WDi4LMk6+I6nN1YoLMg2aBW4NegvCNWJBWCiAgICBAVXBkYXRlKHNxbEZpbGUgPSB0cnVlKQogICAgaW50IHVwZGF0ZUJ5U3ViKFN0cmluZyBzdWIsIFN0cmluZyByZWFsbSxTdHJpbmcgbmFtZSxTdHJpbmcgcHJlZmVycmVkVXNlcm5hbWUsU3RyaW5nIGVtYWlsKTsKCiAgICAvL3VzZXJzg2WBW4N1g4uCyYNmgVuDXoLwkFaLS5F9k/xTdHJpbmcKICAgIEBJbnNlcnQoc3FsRmlsZSA9IHRydWUpCiAgICBpbnQgaW5zZXJ0KFN0cmluZyBzdWIsICBTdHJpbmcgcmVhbG0sU3RyaW5nIG5hbWUsU3RyaW5nIHByZWZlcnJlZFVzZXJuYW1lLFN0cmluZyBlbWFpbCk7</text>
+        <text encoding="base64">ICAgIC8vdXNlcnODZYFbg3WDi4KpgueTr4jqc3VigsyDZoFbg16C8IyfjfUKICAgIEBTZWxlY3QKICAgIGludCBzZWxlY3RDbnRCeVN1YihTdHJpbmcgc3ViKTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX0lOUyA9ICJyZWdpc3RlcmVkIjsKICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX1VQRCA9ICJ1cGRhdGVkIjs=</text>
+        <text encoding="base64">ICAgIC8vdXNlcnODZYFbg3WDi4LMk6+I6nN1YoLMg2aBW4NegvCNWJBWCiAgICBAVXBkYXRlKHNxbEZpbGUgPSB0cnVlKQogICAgaW50IHVwZGF0ZUJ5U3ViKFN0cmluZyBzdWIsIFN0cmluZyByZWFsbSxTdHJpbmcgbmFtZSxTdHJpbmcgcHJlZmVycmVkVXNlcm5hbWUsU3RyaW5nIGVtYWlsKTsKCiAgICAvL3VzZXJzg2WBW4N1g4uCyYNmgVuDXoLwkFaLS5F9k/xTdHJpbmcKICAgIEBJbnNlcnQoc3FsRmlsZSA9IHRydWUpCiAgICBpbnQgaW5zZXJ0KFN0cmluZyBzdWIsICBTdHJpbmcgcmVhbG0sU3RyaW5nIG5hbWUsU3RyaW5nIHByZWZlcnJlZFVzZXJuYW1lLFN0cmluZyBlbWFpbCk7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy+Tr4jqc3VigsyDZoFbg16CqpG2jd2Ct4LpgqmMn431greC6YFCCiAgICAgICAgICAgIGludCByZWNvcmRDb3VudCA9IHVzZXJEYW8uc2VsZWN0Q250QnlTdWIoc3ViKTsKICAgICAgICAgICAgLy+DZoFbg16CqpG2jd2Ct4Lpj+qNh4LNVVBEQVRFCiAgICAgICAgICAgIGlmIChyZWNvcmRDb3VudCA+IDApIHsKCiAgICAgICAgICAgICAgICAvL423laqCqoKggumCqYNgg0aDYoNOgrWCxI23laqCoILogsyP6o2HgUFVUERBVEWC8I7AjXMKICAgICAgICAgICAgICAgIC8vTElTVIxgjq6CxYNmgVuDXo7mk74KICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IHVzZXJEYW8uc2VsZWN0QnlTdWIoc3ViKTsKICAgICAgICAgICAgICAgIGludElkID0gdXNlci5pZDsKCiAgICAgICAgICAgICAgICAvL2FjY2Vzc1Rva2Vuj+6V8YLGg2WBW4N1g4uSbILMlOSKcgogICAgICAgICAgICAgICAgaWYgKCghdXNlci5lbWFpbC5lcXVhbHMoZW1haWwpKSB8fCAoIXVzZXIucmVhbG0uZXF1YWxzKHJlYWxtKSkgfHwgKCF1c2VyLm5hbWUuZXF1YWxzKG5hbWUpKSB8fCAoIXVzZXIucHJlZmVycmVkVXNlcm5hbWUuZXF1YWxzKHByZWZlcnJlZFVzZXJuYW1lKSkpIHsKICAgICAgICAgICAgICAgICAgICAvL5JsgsmNt5WqgqqCoILpj+qNh4LNVVBEQVRFCiAgICAgICAgICAgICAgICAgICAgaW50IGNudCA9IHVzZXJEYW8udXBkYXRlQnlTdWIoc3ViLHJlYWxtLG5hbWUscHJlZmVycmVkVXNlcm5hbWUsZW1haWwpOwogICAgICAgICAgICAgICAgICAgIHN0clByb3N0cyA9IFNUQVRVU19VUEQ7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy+DZoFbg16CqpG2jd2CtYLIgqKP6o2Hgs1JTlNFUlQKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGludCBjbnQgPSB1c2VyRGFvLmluc2VydChzdWIscmVhbG0sbmFtZSxwcmVmZXJyZWRVc2VybmFtZSxlbWFpbCk7CiAgICAgICAgICAgICAgICBzdHJQcm9zdHMgPSBTVEFUVVNfSU5TOwoKICAgICAgICAgICAgICAgIC8vSU5TRVJUgrWCvXVzZXJzLmlkgvCO5pO+greC6YFCCiAgICAgICAgICAgICAgICBVc2VyIHVzZXIgPSB1c2VyRGFvLnNlbGVjdEJ5U3ViKHN1Yik7CiAgICAgICAgICAgICAgICBpbnRJZCA9IHVzZXIuaWQ7CgogICAgICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX0lOUyA9ICJyZWdpc3RlcmVkIjsKICAgICAgICBmaW5hbCBTdHJpbmcgU1RBVFVTX1VQRCA9ICJ1cGRhdGVkIjs=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vSU5TRVJUgrWCvQogICAgICAgICAgICAgICAgVXNlcnMgbGlzdCA9IHVzZXJzRGFvLnNlbGVjdEJ5U3ViKHN1Yik7CgogICAgICAgICAgICAgICAgaW50SWQgPSBsaXN0LmlkOw==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy+Tr4jqc3VigsyDZoFbg16CqpG2jd2Ct4LpgqmMn431greC6YFCCiAgICAgICAgICAgIGludCByZWNvcmRDb3VudCA9IHVzZXJEYW8uc2VsZWN0Q250QnlTdWIoc3ViKTsKICAgICAgICAgICAgLy+DZoFbg16CqpG2jd2Ct4Lpj+qNh4LNVVBEQVRFCiAgICAgICAgICAgIGlmIChyZWNvcmRDb3VudCA+IDApIHsKCiAgICAgICAgICAgICAgICAvL423laqCqoKggumCqYNgg0aDYoNOgrWCxI23laqCoILogsyP6o2HgUFVUERBVEWC8I7AjXMKICAgICAgICAgICAgICAgIC8vTElTVIxgjq6CxYNmgVuDXo7mk74KICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IHVzZXJEYW8uc2VsZWN0QnlTdWIoc3ViKTsKICAgICAgICAgICAgICAgIGludElkID0gdXNlci5pZDsKCiAgICAgICAgICAgICAgICAvL2FjY2Vzc1Rva2Vuj+6V8YLGg2WBW4N1g4uSbILMlOSKcgogICAgICAgICAgICAgICAgaWYgKCghdXNlci5lbWFpbC5lcXVhbHMoZW1haWwpKSB8fCAoIXVzZXIucmVhbG0uZXF1YWxzKHJlYWxtKSkgfHwgKCF1c2VyLm5hbWUuZXF1YWxzKG5hbWUpKSB8fCAoIXVzZXIucHJlZmVycmVkVXNlcm5hbWUuZXF1YWxzKHByZWZlcnJlZFVzZXJuYW1lKSkpIHsKICAgICAgICAgICAgICAgICAgICAvL5JsgsmNt5WqgqqCoILpj+qNh4LNVVBEQVRFCiAgICAgICAgICAgICAgICAgICAgaW50IGNudCA9IHVzZXJEYW8udXBkYXRlQnlTdWIoc3ViLHJlYWxtLG5hbWUscHJlZmVycmVkVXNlcm5hbWUsZW1haWwpOwogICAgICAgICAgICAgICAgICAgIHN0clByb3N0cyA9IFNUQVRVU19VUEQ7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgLy+DZoFbg16CqpG2jd2CtYLIgqKP6o2Hgs1JTlNFUlQKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGludCBjbnQgPSB1c2VyRGFvLmluc2VydChzdWIscmVhbG0sbmFtZSxwcmVmZXJyZWRVc2VybmFtZSxlbWFpbCk7CiAgICAgICAgICAgICAgICBzdHJQcm9zdHMgPSBTVEFUVVNfSU5TOwoKICAgICAgICAgICAgICAgIC8vSU5TRVJUgrWCvXVzZXJzLmlkgvCO5pO+greC6YFCCiAgICAgICAgICAgICAgICBVc2VyIHVzZXIgPSB1c2VyRGFvLnNlbGVjdEJ5U3ViKHN1Yik7CiAgICAgICAgICAgICAgICBpbnRJZCA9IHVzZXIuaWQ7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIC8vQWxjb2hvbINlgVuDdYOLgqmC54NmgVuDXoLwjuaTvgogICAgQFNlbGVjdAogICAgTGlzdDxBbGNvaG9scz4gc2VsZWN0QnlJZFVzZXJzKEludGVnZXIgaWRVc2Vycyk7</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vSU5TRVJUgrWCvQogICAgICAgICAgICAgICAgVXNlcnMgbGlzdCA9IHVzZXJzRGFvLnNlbGVjdEJ5U3ViKHN1Yik7CgogICAgICAgICAgICAgICAgaW50SWQgPSBsaXN0LmlkOw==</text>
       </register>
       <register name="7" type="4">
+        <text encoding="base64">ICAgIC8vQWxjb2hvbINlgVuDdYOLgqmC54NmgVuDXoLwjuaTvgogICAgQFNlbGVjdAogICAgTGlzdDxBbGNvaG9scz4gc2VsZWN0QnlJZFVzZXJzKEludGVnZXIgaWRVc2Vycyk7</text>
+      </register>
+      <register name="8" type="4">
         <text>import co.tripodworks.iot.alccloudkeycloak.entity.vAlcohols;
 import java.util.List;
 import java.util.Arrays;</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>import co.tripodworks.iot.alccloudkeycloak.dto.AlcoholInfoDto;
 import co.tripodworks.iot.alccloudkeycloak.dto.Alcohol;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBBbGNvaG9sUmVzdWx0IGdldEFsY29ob2xSZXN1bHQoaW50IGxpbWl0LCBpbnQgb2Zmc2V0LEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7CgogICAgICAgIC8vP4NBg06DWoNYg2eBW4NOg5OP7pXxgsyO5pO+CiAgICAgICAgS2V5Y2xvYWtTZWN1cml0eUNvbnRleHQga2V5Y2xvYWtTZWN1cml0eUNvbnRleHQgPSAoS2V5Y2xvYWtTZWN1cml0eUNvbnRleHQpICByZXF1ZXN0CiAgICAgICAgICAgICAgICAuZ2V0QXR0cmlidXRlKEtleWNsb2FrU2VjdXJpdHlDb250ZXh0LmNsYXNzLmdldE5hbWUoKSk7CgogICAgICAgIEFjY2Vzc1Rva2VuIGFjY2Vzc1Rva2VuID0ga2V5Y2xvYWtTZWN1cml0eUNvbnRleHQuZ2V0VG9rZW4oKTsKICAgICAgICBrZXljbG9ha1NlY3VyaXR5Q29udGV4dC5nZXRJZFRva2VuKCk7CgogICAgICAgIFN0cmluZyBzdWIgPSAiMSI7CgoKCiAgICAgICAgLy+HQUFsY29ob2yDZYFbg3WDi4KpgucKICAgICAgICAvLyCDZoFbg16C8I7mk76Ct4LpgUIKICAgICAgICBMaXN0PHZBbGNvaG9scz4gbGlzdCA9IHZhbGNvaG9sc0Rhby5zZWxlY3RCeVN1YihzdWIpOwoKICAgICAgICAvL4dCjuaTvoNmgVuDXoLwjLOCyUpzb26MYI6ugsyO5pO+greC6YFCCiAgICAgICAgcmV0dXJuIEJ1aWxkZXIuYnVpbGQoQWxjb2hvbFJlc3VsdC5jbGFzcykKICAgICAgICAgICAgICAgIC53aXRoKHIgLT4gci5zZXRTdGF0dXMoInN1Y2Nlc3MiKSkKICAgICAgICAgICAgICAgIC53aXRoKHIgLT4gci5zZXRNZXRhKAogICAgICAgICAgICAgICAgICAgICAgICBCdWlsZGVyLmJ1aWxkKE1ldGFEYXRhLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKG0gLT4gbS5zZXRUb3RhbCgyMjApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKG0gLT4gbS5zZXRMaW1pdChsaW1pdCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgobSAtPiBtLnNldE9mZnNldChvZmZzZXQpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKQogICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgIC53aXRoKHIgLT4gci5zZXREYXRhKAogICAgICAgICAgICAgICAgICAgICAgICBCdWlsZGVyLmJ1aWxkKEFsY29ob2xMaXN0LmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFsIC0+IGFsLnNldEFsY29ob2xzKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChCdWlsZGVyLmJ1aWxkKEFsY29ob2xJbmZvRHRvLmNsYXNzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aChhaSAtPiBhaS5zZXRJZCgiMTIzNDUiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgoYWkgLT4gYWkuc2V0Q3JlYXRlX2F0KCIyMDE5LTA0LTExVDAzOjAwOjQyKzAwOjAwIikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFpIC0+IGFpLnNldERldmljZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCdWlsZGVyLmJ1aWxkKERldmljZS5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGQgLT4gZC5zZXRNb2RlbCgiaVBob25lNyIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgoZCAtPiBkLnNldFBsYXRmb3JtKCJpT1MiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGQgLT4gZC5zZXRWZXJzaW9uKCI4LjEuMSIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldCgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFpIC0+IGFpLnNldEFwcCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCdWlsZGVyLmJ1aWxkKEFwcC5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFwcCAtPiBhcHAuc2V0VHlwZSgiUGVyc29uYWwiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFwcCAtPiBhcHAuc2V0VmVyc2lvbigiMS4wLjAiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aChhaSAtPiBhaS5zZXRBbGNvaG9sKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkZXIuYnVpbGQoQWxjb2hvbC5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFsYyAtPiBhbGMuc2V0QmF0dGVyeV92b2x0YWdlKDEuNWYpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgoYWxjIC0+IGFsYy5zZXRDb25jZW50cmF0aW9uKDAuMTZmKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFsYyAtPiBhbGMuc2V0RndfdmVyc2lvbigiMjAxODAzMDIxMzI1YSIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgoYWxjIC0+IGFsYy5zZXRJbWFnZSgiYmFzZTY0IikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aChhbGMgLT4gYWxjLnNldFNlcmlhbF9udW1iZXIoIlBBQjIwMDAxNzEwMTAwMjUiKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoKGFsYyAtPiBhbGMuc2V0VGltZXN0YW1wKCIyMDE5LTA0LTExVDAzOjAwOjQyKzAwOjAwIikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aChhbGMgLT4gYWxjLnNldFVzYWdlX2NvdW50KDEwMCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldCgpCiAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgLmdldCgpOwogICAgfQ==</text>
-      </register>
       <register name="-" type="4">
-        <text />
+        <text>import org.seasar.doma.jdbc.SelectOptions;</text>
       </register>
     </registers>
     <search>
