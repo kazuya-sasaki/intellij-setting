@@ -36,11 +36,11 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfo2Dto.java" timestamp="1560132367476" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfo2Dto.java" timestamp="1560143487751" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559614020266">
         <mark key="[" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholController.java" timestamp="1560139581539" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholController.java" timestamp="1560141274422" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1559638511083">
         <mark key="[" line="60" column="22" />
         <mark key="]" line="60" column="22" />
@@ -61,7 +61,7 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfoDto.java" timestamp="1560131438716">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfoDto.java" timestamp="1560142966992">
         <mark key="[" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UserController.java" timestamp="1559892161256">
@@ -87,16 +87,14 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1560139871579">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1560142485728">
         <mark key="'" line="62" column="43" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="111" column="95" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/SimpleResponseListDto.java" timestamp="1560133113174">
-        <mark key="[" line="5" column="38" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/SimpleResponseListDto.java" timestamp="1560140807272" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
       </file>
@@ -146,7 +144,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0SWQoKSB7CiAgICAgICAgcmV0dXJuIGlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkKFN0cmluZyBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldENyZWF0ZV9hdCgpIHsKICAgICAgICByZXR1cm4gY3JlYXRlX2F0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENyZWF0ZV9hdChTdHJpbmcgY3JlYXRlX2F0KSB7CiAgICAgICAgdGhpcy5jcmVhdGVfYXQgPSBjcmVhdGVfYXQ7CiAgICB9</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8qKiBAcmV0dXJuICov</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBEZXZpY2VEdG8gZ2V0RGV2aWNlRHRvKCkgewogICAgICAgIHJldHVybiBkZXZpY2VEdG87CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGV2aWNlRHRvKERldmljZUR0byBkZXZpY2VEdG8pIHsKICAgICAgICB0aGlzLmRldmljZUR0byA9IGRldmljZUR0bzsKICAgIH0KCiAgICBwdWJsaWMgQXBwRHRvIGdldEFwcER0bygpIHsKICAgICAgICByZXR1cm4gYXBwRHRvOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFwcER0byhBcHBEdG8gYXBwRHRvKSB7CiAgICAgICAgdGhpcy5hcHBEdG8gPSBhcHBEdG87CiAgICB9CgogICAgcHVibGljIEFsY29ob2xEdG8gZ2V0QWxjb2hvbER0bygpIHsKICAgICAgICByZXR1cm4gYWxjb2hvbER0bzsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBbGNvaG9sRHRvKEFsY29ob2xEdG8gYWxjb2hvbER0bykgewogICAgICAgIHRoaXMuYWxjb2hvbER0byA9IGFsY29ob2xEdG87CiAgICB9</text>
@@ -173,7 +171,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhbGNvaG9sTGlzdC5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChCdWlsZGVyLmJ1aWxkKEFsY29ob2xJbmZvRHRvLmNsYXNzKS53aXRoKGFpIC0+IGFpLnNldElkKGlkKSk7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIC8qKiBAcmV0dXJuICov</text>
+        <text />
       </register>
     </registers>
     <search>
