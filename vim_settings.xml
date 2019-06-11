@@ -45,8 +45,8 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559614020266">
         <mark key="[" line="30" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholController.java" timestamp="1560230946735">
-        <mark key="^" line="86" column="19" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/AlcoholController.java" timestamp="1560232673896">
+        <mark key="^" line="84" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UsersService.java" timestamp="1559638511083">
         <mark key="[" line="60" column="22" />
@@ -97,7 +97,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1560231450135">
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1560231920656">
         <mark key="'" line="62" column="43" />
         <mark key="[" line="132" column="0" />
         <mark key="]" line="27" column="0" />
@@ -155,7 +155,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQWxjb2hvbEluZm8yRHRvPExpc3Q8QWxjb2hvbEluZm8yRHRvPj4gYWxjb2hvbFJlc3BvbnNlTGlzdER0byA9CiAgICAgICAgICAgICAgICAgICAgbmV3IFNpbXBsZVJlc3BvbnNlTGlzdER0bzw+KCk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgQWxjb2hvbEluZm8yRHRvPExpc3Q8QWxjb2hvbEluZm8yRHRvPj4gYWxjb2hvbFJlc3BvbnNlTGlzdER0byA9CiAgICAgICAgICAgICAgICAgICAgbmV3IFNpbXBsZVJlc3BvbnNlTGlzdER0bzw+KCk7</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWxjb2hvbEluZm8yRHRvKCIiLCAiIiwgIiIpOw==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExpc3REZXYobG9uZyBkZXZpY2VNb2RlbCwgaW50IGxpbWl0LCBpbnQgb2Zmc2V0KSB7Cg==</text>
@@ -182,7 +182,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBEZXZpY2VEdG8gZ2V0RGV2aWNlRHRvKCkgewogICAgICAgIHJldHVybiBkZXZpY2VEdG87CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGV2aWNlRHRvKERldmljZUR0byBkZXZpY2VEdG8pIHsKICAgICAgICB0aGlzLmRldmljZUR0byA9IGRldmljZUR0bzsKICAgIH0KCiAgICBwdWJsaWMgQXBwRHRvIGdldEFwcER0bygpIHsKICAgICAgICByZXR1cm4gYXBwRHRvOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEFwcER0byhBcHBEdG8gYXBwRHRvKSB7CiAgICAgICAgdGhpcy5hcHBEdG8gPSBhcHBEdG87CiAgICB9CgogICAgcHVibGljIEFsY29ob2xEdG8gZ2V0QWxjb2hvbER0bygpIHsKICAgICAgICByZXR1cm4gYWxjb2hvbER0bzsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRBbGNvaG9sRHRvKEFsY29ob2xEdG8gYWxjb2hvbER0bykgewogICAgICAgIHRoaXMuYWxjb2hvbER0byA9IGFsY29ob2xEdG87CiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>setListDev(String deviceModel, String platform, String version)</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWxjb2hvbEluZm8yRHRvKCIiLCAiIiwgIiIpOw==</text>
       </register>
     </registers>
     <search>
