@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559887051081">
         <mark key="[" line="23" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/AlcoholView.java" timestamp="1560390595880">
-        <mark key="[" line="39" column="18" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/AlcoholView.java" timestamp="1560399022462">
+        <mark key="[" line="42" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
@@ -27,9 +27,11 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/build.gradle" timestamp="1560132524501">
         <mark key="[" line="60" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/DeviceDto.java" timestamp="1560390418599">
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/DeviceDto.java" timestamp="1560399554912">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="42" />
+        <mark key="m" line="11" column="38" />
+        <mark key="." line="19" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/Devise.java" timestamp="1559544497097">
         <mark key="[" line="2" column="17" />
@@ -71,10 +73,10 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfoDto.java" timestamp="1560394845913">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfoDto.java" timestamp="1560399233117">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UserController.java" timestamp="1560386620748">
         <mark key="[" line="12" column="21" />
@@ -140,7 +142,7 @@
         <text encoding="base64">Ly8gICAgcHVibGljIFNpbXBsZVJlc3BvbnNlTGlzdER0bzxMaXN0PEFsY29ob2xJbmZvRHRvPExpc3Q8RGV2aWNlRHRvPixMaXN0PEFwcER0bz4sTGlzdDxBbGNvaG9sRHRvPj4+PgovLyAgICAgICAgICAgZ2V0QWxjb2hvbFJlc3VsdChAUmVxdWVzdFBhcmFtKCJsaW1pdCIpIGludCBsaW1pdCwgQFJlcXVlc3RQYXJhbSgib2Zmc2V0IikgaW50IG9mZnNldCwgSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import co.tripodworks.iot.alccloudkeycloak.util.Builder;</text>
+        <text>deviceP</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgLy8gMi5EVE+C1oLMlc+Kt4FpZGV2aWNlgUFhcHCBQWFsY29ob2yBagovLyAgICAgICAgICAgIFR5cGUgZHZMaXN0VHlwZSA9IG5ldyBUeXBlVG9rZW48TGlzdDxEZXZpY2VEdG8+PigpIHt9LmdldFR5cGUoKTsKLy8gICAgICAgICAgICBMaXN0PERldmljZUR0bz4gZGV2aWNlRHRvTGlzdCA9IG1vZGVsTWFwcGVyLm1hcChhbGNvaG9sTGlzdCwgZHZMaXN0VHlwZSk7Ci8vCi8vICAgICAgICAgICAgVHlwZSBhcExpc3RUeXBlID0gbmV3IFR5cGVUb2tlbjxMaXN0PEFwcER0bz4+KCkge30uZ2V0VHlwZSgpOwovLyAgICAgICAgICAgIExpc3Q8QXBwRHRvPiBhcHBEdG9MaXN0ID0gbW9kZWxNYXBwZXIubWFwKGFsY29ob2xMaXN0LCBhcExpc3RUeXBlKTsKLy8KLy8gICAgICAgICAgICBUeXBlIGFsTGlzdFR5cGUgPSBuZXcgVHlwZVRva2VuPExpc3Q8QWxjb2hvbER0bz4+KCkge30uZ2V0VHlwZSgpOwovLyAgICAgICAgICAgIExpc3Q8QWxjb2hvbER0bz4gYWxjb2hvbER0b0xpc3QgPSBtb2RlbE1hcHBlci5tYXAoYWxjb2hvbExpc3QsIGFsTGlzdFR5cGUpOwoKICAgICAgICAgICAgLy8gMy5BbGNvaG9sSW5mb0R0b4LWg1qDYoNnCi8vICAgICAgICAgICAgQWxjb2hvbEluZm9EdG88TGlzdDxEZXZpY2VEdG8+LExpc3Q8QXBwRHRvPixMaXN0PEFsY29ob2xEdG8+PiBhbGNvaG9sSW5mb0xpc3REdG8gPQovLyAgICAgICAgICAgICAgICAgICAgbmV3IEFsY29ob2xJbmZvRHRvPD4oKTsKLy8gICAgICAgICAgICBhbGNvaG9sSW5mb0xpc3REdG8uYWRkRGV2aWNlKCJkZXZpY2UiLCBkZXZpY2VEdG9MaXN0KTsKLy8gICAgICAgICAgICBhbGNvaG9sSW5mb0xpc3REdG8uYWRkQXBwKCJhcHAiLCBhcHBEdG9MaXN0KTsKLy8gICAgICAgICAgICBhbGNvaG9sSW5mb0xpc3REdG8uYWRkQWxjb2hvbCgiYWxjb2hvbCIsIGFsY29ob2xEdG9MaXN0KTsKCi8vICAgICAgICAgICAgQWxjb2hvbEluZm9EdG88TGlzdDxBcHBEdG8+PiBhcHBMaXN0RHRvID0KLy8gICAgICAgICAgICAgICAgICAgIG5ldyBBbGNvaG9sSW5mb0R0bzw+KCk7Ci8vICAgICAgICAgICAgYXBwTGlzdER0by5hZGRBcHBEYXRhKCJhcHAiLCBhcHBEdG9MaXN0KTsKCgovLyAgICAgICAgICAgIFNpbXBsZVJlc3BvbnNlTGlzdER0bzxMaXN0PEFsY29ob2xJbmZvMkR0bz4+IGFsY29ob2xSZXNwb25zZUxpc3REdG8gPQovLyAgICAgICAgICAgICAgICAgICAgbmV3IFNpbXBsZVJlc3BvbnNlTGlzdER0bzw+KCk7Ci8vICAgICAgICAgICAgYWxjb2hvbFJlc3BvbnNlTGlzdER0by5zZXRMaXN0TWV0YShhbGNvaG9sU2VydmljZS5nZXRTZWxlY3RBbGxDb3VudCgpLCBsaW1pdCwgb2Zmc2V0KTsKLy8gICAgICAgICAgICBhbGNvaG9sUmVzcG9uc2VMaXN0RHRvLmFkZERhdGEoImFsY29ob2xzIiwgYWxjb2hvbEluZm8yRHRvTGlzdCk7CgogICAgICAgICAgICAvL1R5cGUgbGlzdFR5cGUgPSBuZXcgVHlwZVRva2VuPExpc3Q8QWxjb2hvbEluZm9EdG88TGlzdDxEZXZpY2VEdG8+LExpc3Q8QXBwRHRvPixMaXN0PEFsY29ob2xEdG8+Pj4+KCkge30uZ2V0VHlwZSgpOw==</text>
@@ -168,7 +170,7 @@ import java.util.Map;</text>
         <text encoding="base64">CiAgICAgICAgICAgIGFsY29ob2xSZXN1bHREdG8uc2V0TGlzdE1ldGEoYWxjb2hvbFNlcnZpY2UuZ2V0U2VsZWN0QWxsQ291bnQoKSwgbGltaXQsIG9mZnNldCk7</text>
       </register>
       <register name="-" type="4">
-        <text>import co.tripodworks.iot.alccloudkeycloak.util.Builder;</text>
+        <text>deviceP</text>
       </register>
     </registers>
     <search>
