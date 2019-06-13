@@ -98,6 +98,9 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1560416013442">
+        <mark key="[" line="47" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/AlcoholService.java" timestamp="1560411468295">
         <mark key="'" line="62" column="43" />
         <mark key="[" line="32" column="16" />
