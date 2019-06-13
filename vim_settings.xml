@@ -63,10 +63,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/test/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplicationTests.java" timestamp="1559891909195">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560414439111">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1560418019689">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfoDto.java" timestamp="1560399233117">
         <mark key="[" line="5" column="45" />
@@ -148,7 +148,7 @@
         <text encoding="base64">Ly8gICAgICAgICAgICBMaXN0PERldmljZUR0bz4gZGV2aWNlRHRvTGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYWxjb2hvbExpc3Quc2l6ZSgpOyBpKyspIHsKLy8gICAgICAgICAgICAgICAgRGV2aWNlRHRvIGRldmljZUR0byA9IG5ldyBEZXZpY2VEdG8oKTsKLy8KLy8gICAgICAgICAgICAgICAgZGV2aWNlRHRvLnNldERldmljZU1vZGVsKGFsY29ob2xMaXN0LmdldChpKS5kZXZpY2VNb2RlbCk7Ci8vICAgICAgICAgICAgICAgIGRldmljZUR0by5zZXREZXZpY2VQbGF0Zm9ybShhbGNvaG9sTGlzdC5nZXQoaSkuZGV2aWNlUGxhdGZvcm0pOwovLyAgICAgICAgICAgICAgICBkZXZpY2VEdG8uc2V0RGV2aWNlVmVyc2lvbihhbGNvaG9sTGlzdC5nZXQoaSkuZGV2aWNlVmVyc2lvbik7Ci8vICAgICAgICAgICAgICAgIGRldmljZUR0b0xpc3QuYWRkKGRldmljZUR0byk7Ci8vICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlcnJvckluZm86IisgZSk7</text>
+        <text>設定ファイル不備修正、エラー時の暫定ログ削除、コメント不備</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0QmF0dGVyeVZvbHRhZ2UoKSB7CiAgICAgICAgcmV0dXJuIGJhdHRlcnlfVm9sdGFnZTsKICAgIH0K</text>
@@ -197,7 +197,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLy9MaXN0PEFsY29ob2xJbmZvRHRvPExpc3Q8RGV2aWNlRHRvPiAsTGlzdDxBcHBEdG8+ICxMaXN0PEFsY29ob2xEdG8+Pj4gYWxjb2hvbEluZm9EdG9MaXN0ID0gbW9kZWxNYXBwZXIubWFwKGFsY29ob2xMaXN0LCBsaXN0VHlwZSk7CgoKCgogICAgICAgICAgICAvLyA0LpBlgsaCyILpRFRPgtaDWoNig2eCtYLECi8vICAgICAgICAgICAgU2ltcGxlUmVzcG9uc2VMaXN0RHRvPExpc3Q8QWxjb2hvbEluZm9EdG88TGlzdDxEZXZpY2VEdG8+LExpc3Q8QXBwRHRvPixMaXN0PEFsY29ob2xEdG8+Pj4+IGFsY29ob2xSZXNwb25zZUxpc3REdG8gPQovLyAgICAgICAgICAgICAgICAgICAgbmV3IFNpbXBsZVJlc3BvbnNlTGlzdER0bzw+KCk7Ci8vICAgICAgICAgICAgYWxjb2hvbFJlc3BvbnNlTGlzdER0by5zZXRMaXN0TWV0YShhbGNvaG9sU2VydmljZS5nZXRTZWxlY3RBbGxDb3VudCgpLCBsaW1pdCwgb2Zmc2V0KTsKLy8gICAgICAgICAgICBhbGNvaG9sUmVzcG9uc2VMaXN0RHRvLmFkZERhdGEoImFsY29ob2xzIiwgYWxjb2hvbEluZm9EdG9MaXN0KTs=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlcnJvckluZm86IisgZSk7</text>
+        <text>設定ファイル不備修正、エラー時の暫定ログ削除、コメント不備</text>
       </register>
     </registers>
     <search>
