@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/StatusResultDto.java" timestamp="1560478067848">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insertOnDuplicateKeyUpdate.sql" timestamp="1560474410831" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfoDto.java" timestamp="1559544561502">
         <mark key="[" line="9" column="16" />
       </file>
@@ -19,7 +18,6 @@
       <file name="/a.dummy" timestamp="1559886951007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UserInfoDto.java" timestamp="1560498506033" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/vAlcohols.java" timestamp="1559614424832">
         <mark key="[" line="44" column="30" />
       </file>
@@ -28,6 +26,9 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/Devise.java" timestamp="1559544497097">
         <mark key="[" line="2" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholDto.java" timestamp="1560753533720">
+        <mark key="[" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/resources/db/migration/V1__create_table.sql" timestamp="1559614020266">
         <mark key="[" line="30" column="59" />
@@ -40,7 +41,6 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/StatusController.java" timestamp="1560479876902" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/test/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplicationTests.java" timestamp="1559891909195">
         <mark key="[" line="13" column="0" />
       </file>
@@ -82,7 +82,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dao/AlcoholDao.java" timestamp="1560498586494" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" timestamp="1559782504828">
         <mark key="[" line="64" column="9" />
       </file>
@@ -116,7 +115,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560501131723">
+      <file name="/Dummy.txt" timestamp="1560753502843">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -137,7 +136,6 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/User.java" timestamp="1560498471395" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
       </file>
@@ -147,11 +145,9 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1560479971286" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1560411224426">
         <mark key="[" line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1560479326749" />
       <file name="/fragment.java" timestamp="1560479456795">
         <mark key="[" line="0" column="0" />
       </file>
