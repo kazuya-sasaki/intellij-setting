@@ -76,7 +76,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560822372002">
+      <file name="/Dummy.txt" timestamp="1562226670476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -122,6 +122,9 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/SimpleResponseListDto.java" timestamp="1560394689109">
         <mark key="[" line="5" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/muratamdms/build.gradle" timestamp="1562226876219">
+        <mark key="[" line="49" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
       </file>
@@ -151,7 +154,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/InsertOnDuplicateKeyUpdate.sql" timestamp="1559711219092">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1560479456795">
+      <file name="/fragment.java" timestamp="1562226624786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholList.java" timestamp="1559027628619">
@@ -165,13 +168,16 @@
       <register name="0" type="4">
         <text>Alcoholテーブル</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TG9naW5TdGF0dXMoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CS8vIGFubm90YXRpb25Qcm9jZXNzb3IgIm9yZy5zZWFzYXIuZG9tYTpkb21hOiR7ZG9tYVZlcnNpb259IgoJLy8gY29tcGlsZSgib3JnLnNlYXNhci5kb21hOmRvbWE6JHtkb21hVmVyc2lvbn0iKQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>import co.tripodworks.iot.alccloudkeycloak.dto.AlcoholResultDto;</text>
+        <text encoding="base64">CS8vIGFubm90YXRpb25Qcm9jZXNzb3IgIm9yZy5zZWFzYXIuZG9tYTpkb21hOiR7ZG9tYVZlcnNpb259IgoJLy8gY29tcGlsZSgib3JnLnNlYXNhci5kb21hOmRvbWE6JHtkb21hVmVyc2lvbn0iKQ==</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TG9naW5TdGF0dXMoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsK</text>
+      </register>
+      <register name="3" type="4">
         <text>import co.tripodworks.iot.alccloudkeycloak.dto.KeycloakInfo;
 import co.tripodworks.iot.alccloudkeycloak.dto.UserDto;
 import co.tripodworks.iot.alccloudkeycloak.dto.UserInfoDto;
@@ -180,26 +186,23 @@ import org.keycloak.KeycloakSecurityContext;
 import org.keycloak.representations.AccessToken;
 import org.springframework.beans.factory.annotation.Autowired;</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgLy9maW5hbILwgsKCr4LEkuiQlIm7grWCyIKigsZCdWlsZGVygsyVz5CUgsWOZ5dwgsWCq4LIgqKBQoFCCiAgICAgICAgICAgIGZpbmFsIEludGVnZXIgbGFzdElkID0gaW50SWQ7</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRHRvIGZyZWVVc2VycygpIHsKICAgICAgICByZXR1cm4gQnVpbGRlci5idWlsZChVc2VyRHRvLmNsYXNzKQogICAgICAgICAgICAgICAgLndpdGgoaCAtPiBoLnNldFN0YXR1cygic3VjY2VzcyIpKQogICAgICAgICAgICAgICAgLmdldCgpOwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">QnVpbGRlci5idWlsZChVc2VyRHRvLmNsYXNzKQogICAgICAgICAgICAgICAgICAgIC53aXRoKGggLT4gaC5zZXRTdGF0dXMoU1RBVFVTX1NVQ0NFU1MpKQogICAgICAgICAgICAgICAgICAgIC53aXRoKHIgLT4gci5zZXREYXRhKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQnVpbGRlci5idWlsZChVc2VySW5mb0R0by5jbGFzcykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLndpdGgodSAtPiB1LnNldElkKGxhc3RJZCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXQoKQogICAgICAgICAgICAgICAgICAgICkpCiAgICAgICAgICAgICAgICAgICAgLmdldCgpOw==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRHRvIGdldExvZ2luU3RhdHVzKEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRHRvIGdldExvZ2luU3RhdHVzKEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB1c2VyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyRHRvIGdldExvZ2luU3RhdHVzKEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0KSB7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICBLZXljbG9ha1NlY3VyaXR5Q29udGV4dCBrZXljbG9ha1NlY3VyaXR5Q29udGV4dCA9IChLZXljbG9ha1NlY3VyaXR5Q29udGV4dCkgcmVxdWVzdAogICAgICAgICAgICAgICAgICAgIC5nZXRBdHRyaWJ1dGUoS2V5Y2xvYWtTZWN1cml0eUNvbnRleHQuY2xhc3MuZ2V0TmFtZSgpKTsKCiAgICAgICAgICAgIEFjY2Vzc1Rva2VuIGFjY2Vzc1Rva2VuID0ga2V5Y2xvYWtTZWN1cml0eUNvbnRleHQuZ2V0VG9rZW4oKTsKICAgICAgICAgICAga2V5Y2xvYWtTZWN1cml0eUNvbnRleHQuZ2V0SWRUb2tlbigpOwoKICAgICAgICAgICAgVXNlckR0byB1c2VyRHRvID0gbmV3IFVzZXJEdG8oKTsKICAgICAgICAgICAgS2V5Y2xvYWtJbmZvIGtleWNsb2FrSW5mbyA9IG5ldyBLZXljbG9ha0luZm8oKTsKICAgICAgICAgICAga2V5Y2xvYWtJbmZvLnNldEFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsKICAgICAgICAgICAgdXNlckR0by5zZXRVc2VyKGtleWNsb2FrSW5mbyk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgSW50ZWdlciB1c2VyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>import co.tripodworks.iot.alccloudkeycloak.dto.AlcoholResultDto;</text>
