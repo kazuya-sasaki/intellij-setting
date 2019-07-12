@@ -24,8 +24,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/build.gradle" timestamp="1560132524501">
         <mark key="[" line="60" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/PeriodController.java" timestamp="1562900842826">
-        <mark key="[" line="2" column="47" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/PeriodController.java" timestamp="1562904162040">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/PeriodMetaDataDto.java" timestamp="1562750452582">
         <mark key="[" line="3" column="0" />
@@ -229,15 +231,7 @@
 }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>bootRun {
-	jvmArgs = [
-			&quot;-Dserver.port=8180&quot;,
-			&quot;-Dserver.ssl.key-alias=selfsigned_localhost_sslserver&quot;,
-			&quot;-Dserver.ssl.key-password=changeit&quot;,
-			&quot;-Dserver.ssl.key-store=classpath:ssl-server.jks&quot;,
-			&quot;-Dserver.ssl.key-store-provider=SUN&quot;,
-			&quot;-Dserver.ssl.key-store-type=JKS&quot;]
-}</text>
+        <text>import com.idnsmartmeter.mdms.dto.PeriodDto;</text>
       </register>
       <register name="2" type="4">
         <text>bootRun {
@@ -287,7 +281,7 @@ import java.util.Date;</text>
         <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZYxegsyT+o6egvBDYWxlbmRhcoxegsmVz4q3CiAgICAgICAgICAgIENhbGVuZGFyIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgICAgICAgICAgY2FsZW5kYXIuc2V0VGltZShkYXRlVG8pOw==</text>
       </register>
       <register name="-" type="4">
-        <text>import org.springframework.beans.factory.annotation.Autowired;</text>
+        <text>import com.idnsmartmeter.mdms.dto.PeriodDto;</text>
       </register>
     </registers>
     <search>
