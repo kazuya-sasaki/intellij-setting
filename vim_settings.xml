@@ -142,7 +142,6 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1562914690166" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfo2Dto.java" timestamp="1560304521379">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -166,8 +165,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/util/Builder.java" timestamp="1559868736547">
         <mark key="[" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/application.properties" timestamp="1562905979732">
-        <mark key="[" line="4" column="35" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/application.properties" timestamp="1562917250741">
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/MetaDataDto.java" timestamp="1560391542359">
         <mark key="[" line="3" column="18" />
@@ -248,7 +249,7 @@
         <text encoding="base64">ICAgIC8vQEF1dG93aXJlZAogICAgLy9Nb2RlbE1hcHBlciBtb2RlbE1hcHBlcjs=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC8vQEF1dG93aXJlZAogICAgLy9Nb2RlbE1hcHBlciBtb2RlbE1hcHBlcjs=</text>
+        <text>a</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQWxjb2hvbExpc3REdG8gYWxjb2hvbExpc3REdG8gPSAgbmV3IEFsY29ob2xMaXN0RHRvKCk7Cg==</text>
@@ -275,7 +276,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgRGV2aWNlRHRvIGRldmljZTsKICAgIHByaXZhdGUgQXBwRHRvIGFwcDsKICAgIHByaXZhdGUgQWxjb2hvbER0byBhbGNvaG9sOw==</text>
       </register>
       <register name="-" type="4">
-        <text>import org.modelmapper.ModelMapper;</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
