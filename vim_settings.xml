@@ -101,8 +101,8 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1560481200205">
         <mark key="[" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/build.gradle" timestamp="1562906395049">
-        <mark key="[" line="55" column="4" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/build.gradle" timestamp="1563267711770">
+        <mark key="[" line="61" column="47" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
@@ -184,7 +184,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563260325583">
+      <file name="/Dummy.txt" timestamp="1563267555749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -232,7 +232,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1560411224426">
         <mark key="[" line="2" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1562895456962">
+      <file name="/fragment.java" timestamp="1563267527574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholList.java" timestamp="1559027628619">
