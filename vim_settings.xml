@@ -85,7 +85,6 @@
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/test/java/co/tripodworks/iot/muratamdms/MuratamdmsApplicationTests.java" timestamp="1562229360420">
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="/DeviceController.java" timestamp="1563260304911" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/Alcohol.java" timestamp="1559797201121">
         <mark key="[" line="27" column="16" />
       </file>
@@ -101,10 +100,8 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1560481200205">
         <mark key="[" line="47" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/build.gradle" timestamp="1563267711770">
-        <mark key="[" line="61" column="47" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/build.gradle" timestamp="1563268161346">
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/selectCntBySub.sql" timestamp="1559696504788">
         <mark key="[" line="3" column="7" />
@@ -252,9 +249,7 @@
 //    }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>//    public String getMeterId() {
-//        return meter_id;
-//    }</text>
+        <text encoding="base64">CWNvbXBpbGUgJ2NvbS5nb29nbGUuZ29vZ2xlamF2YWZvcm1hdDpnb29nbGUtamF2YS1mb3JtYXQ6MS43Jw==</text>
       </register>
       <register name="2" type="4">
         <text>//    public String getDeviceEui() {
@@ -285,7 +280,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEFsY29ob2xWaWV3PiBhbGNvaG9sTGlzdCA9IGFsY29ob2xWaWV3RGFvLnNlbGVjdEJ5U3ViKHN1YiwgbGltaXQsIG9mZnNldCxvcHRpb25zKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">CWNvbXBpbGUgJ2NvbS5nb29nbGUuZ29vZ2xlamF2YWZvcm1hdDpnb29nbGUtamF2YS1mb3JtYXQ6MS43Jw==</text>
       </register>
     </registers>
     <search>
