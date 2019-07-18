@@ -146,11 +146,11 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1563428330085">
-        <mark key="[" line="85" column="68" />
-        <mark key="]" line="89" column="74" />
-        <mark key="." line="89" column="74" />
-        <mark key="^" line="89" column="74" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1563431269017">
+        <mark key="[" line="89" column="68" />
+        <mark key="]" line="93" column="74" />
+        <mark key="." line="93" column="74" />
+        <mark key="^" line="93" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/DevicesAll.java" timestamp="1563428270061">
         <mark key="[" line="34" column="0" />
