@@ -123,10 +123,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/InsertOnDuplicateKeyUpdate.sql" timestamp="1559711219092">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/DeviceService.java" timestamp="1562916150822">
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="10" />
-        <mark key="." line="34" column="10" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/DeviceService.java" timestamp="1563415055503">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/AlcoholView.java" timestamp="1560399782295">
         <mark key="[" line="45" column="23" />
@@ -134,8 +134,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1563260110625">
-        <mark key="[" line="26" column="30" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1563415021939">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfo2Dto.java" timestamp="1560304521379">
         <mark key="[" line="12" column="0" />
@@ -241,15 +243,12 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
-        <text>// Spotless
-spotless {
-	java {
-		googleJavaFormat('1.6') //Google Java Style
-	}
-}
-compileJava.dependsOn 'spotlessApply'   //コンパイル時に自動コード整形</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy+DZoFbg16CzI7mk76BaYOKg1iDZ4FqCiAgICAgICAgICAgIExpc3Q8RGV2aWNlcz4gZGV2aWNlc0xpc3QgPSBkZXZpY2VTZXJ2aWNlLmdldERldmljZU5hbWVMaXN0KCk7CgogICAgICAgICAgICAvL21ldGGDZoFbg16C8ERUT4LJg1qDYoNnCiAgICAgICAgICAgIERldmljZU5hbWVNZXRhRGF0YUR0byBkZXZpY2VOYW1lTWV0YURhdGFEdG8gPSBuZXcgRGV2aWNlTmFtZU1ldGFEYXRhRHRvKCk7CiAgICAgICAgICAgIGRldmljZU5hbWVNZXRhRGF0YUR0by5zZXRUb3RhbChkZXZpY2VTZXJ2aWNlLmdldFNlbGVjdEFsbENvdW50KCkpOwoKICAgICAgICAgICAgLy9EZXZpY2VOYW1lSW5mb0R0b4Lwg4qDWINnjGCOroLJgrWBQWRldmljZXODZoFbg16C8INag2KDZwogICAgICAgICAgICBMaXN0PERldmljZU5hbWVJbmZvRHRvPiBkZXZpY2VOYW1lSW5mb0xpc3REdG8gPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkZXZpY2VzTGlzdC5zaXplKCk7IGkrKykgewoKICAgICAgICAgICAgICAgIERldmljZU5hbWVJbmZvRHRvIGRldmljZU5hbWVJbmZvRHRvID0gbmV3IERldmljZU5hbWVJbmZvRHRvKCk7CgogICAgICAgICAgICAgICAgZGV2aWNlTmFtZUluZm9EdG8uc2V0SWQoZGV2aWNlc0xpc3QuZ2V0KGkpLmlkKTsKICAgICAgICAgICAgICAgIGRldmljZU5hbWVJbmZvRHRvLnNldERldmljRXVpKGRldmljZXNMaXN0LmdldChpKS5kZXZpY2VFdWkpOwogICAgICAgICAgICAgICAgZGV2aWNlTmFtZUluZm9EdG8uc2V0TWV0ZXJJZChkZXZpY2VzTGlzdC5nZXQoaSkubWV0ZXJJZCk7CiAgICAgICAgICAgICAgICBkZXZpY2VOYW1lSW5mb0xpc3REdG8uYWRkKGRldmljZU5hbWVJbmZvRHRvKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9EZXZpY2VOYW1lSW5mb0R0b4LwRGV2aWNlTmFtZUxpc3REdG+CyYNag2KDZwogICAgICAgICAgICBEZXZpY2VOYW1lTGlzdER0byBkZXZpY2VOYW1lTGlzdER0byA9IG5ldyBEZXZpY2VOYW1lTGlzdER0bygpOwogICAgICAgICAgICBkZXZpY2VOYW1lTGlzdER0by5zZXREZXZpY2VzKGRldmljZU5hbWVJbmZvTGlzdER0byk7CgogICAgICAgICAgICAvL0RldmljZU5hbWVMaXN0RHRvgvCV1Itwl3CCzJBlRFRPgWlEZXZpY2VOYW1lRHRvgWqCyYNag2KDZwogICAgICAgICAgICBEZXZpY2VOYW1lRHRvIGRldmljZU5hbWVEdG8gPSBuZXcgRGV2aWNlTmFtZUR0bygpOwogICAgICAgICAgICBkZXZpY2VOYW1lRHRvLnNldE1ldGEoZGV2aWNlTmFtZU1ldGFEYXRhRHRvKTsKICAgICAgICAgICAgZGV2aWNlTmFtZUR0by5zZXREYXRhKGRldmljZU5hbWVMaXN0RHRvKTs=</text>
       </register>
       <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="4">
         <text>// Spotless
 spotless {
 	java {
@@ -258,38 +257,35 @@ spotless {
 }
 compileJava.dependsOn 'spotlessApply'   //コンパイル時に自動コード整形</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>//    public String getMeterId() {
 //        return meter_id;
 //    }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>//    public String getDeviceEui() {
 //        return device_eui;
 //    }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//    public Integer getId() {
 //        return id;
 //    }</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8vQEF1dG93aXJlZAogICAgLy9Nb2RlbE1hcHBlciBtb2RlbE1hcHBlcjs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQWxjb2hvbExpc3REdG8gYWxjb2hvbExpc3REdG8gPSAgbmV3IEFsY29ob2xMaXN0RHRvKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Ly8KLy8gICAgICAgICAgICAvL2RldmljZYNmgVuDXoLwRFRPgsmDWoNig2cKLy8gICAgICAgICAgICBUeXBlIGR2TGlzdFR5cGUgPSBuZXcgVHlwZVRva2VuPExpc3Q8RGV2aWNlRHRvPj4oKSB7fS5nZXRUeXBlKCk7Ci8vICAgICAgICAgICAgTGlzdDxEZXZpY2VEdG8+IGRldmljZUR0b0xpc3QgPSBtb2RlbE1hcHBlci5tYXAoYWxjb2hvbExpc3QsIGR2TGlzdFR5cGUpOwovLwovLyAgICAgICAgICAgIC8vYXBwg2aBW4NegvBEVE+CyYNag2KDZwovLyAgICAgICAgICAgIFR5cGUgYXBMaXN0VHlwZSA9IG5ldyBUeXBlVG9rZW48TGlzdDxBcHBEdG8+PigpIHt9LmdldFR5cGUoKTsKLy8gICAgICAgICAgICBMaXN0PEFwcER0bz4gYXBwRHRvTGlzdCA9IG1vZGVsTWFwcGVyLm1hcChhbGNvaG9sTGlzdCwgYXBMaXN0VHlwZSk7Ci8vCi8vICAgICAgICAgICAgLy9hbGNvaG9sg2aBW4NegvBEVE+CyYNag2KDZwovLyAgICAgICAgICAgIFR5cGUgYWxMaXN0VHlwZSA9IG5ldyBUeXBlVG9rZW48TGlzdDxBbGNvaG9sRHRvPj4oKSB7fS5nZXRUeXBlKCk7Ci8vICAgICAgICAgICAgTGlzdDxBbGNvaG9sRHRvPiBhbGNvaG9sRHRvTGlzdCA9IG1vZGVsTWFwcGVyLm1hcChhbGNvaG9sTGlzdCwgYWxMaXN0VHlwZSk7Ci8vCi8vICAgICAgICAgICAgLy9JU084NjAxlc+Kt5dwg3SDSIFbg32DYoNnCi8vICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBzZiA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkJ1QnSEg6bW06c3NYWFgiKTs=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICAgICAgbWV0YURhdGFEdG8uc2V0TGltaXQobGltaXQpOwogICAgICAgICAgICBtZXRhRGF0YUR0by5zZXRPZmZzZXQob2Zmc2V0KTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PERldmljZXM+IGRldmljZXNMaXN0ID0gYWxjb2hvbFZpZXdEYW8uc2VsZWN0QnlTdWIob3B0aW9ucyk7Cg==</text>
-      </register>
       <register name="-" type="4">
-        <text>apply plugin: 'com.diffplug.gradle.spotless' //Spotless</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
