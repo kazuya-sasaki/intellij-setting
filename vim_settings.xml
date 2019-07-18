@@ -35,6 +35,9 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/PeriodMetaDataDto.java" timestamp="1562907539207">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceInfoDto.java" timestamp="1563418494085">
+        <mark key="[" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/Devise.java" timestamp="1559544497097">
         <mark key="[" line="2" column="17" />
       </file>
@@ -99,6 +102,9 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1560481200205">
         <mark key="[" line="47" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceInfoListDto.java" timestamp="1563418673715">
+        <mark key="[" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/selectCntBySub.sql" timestamp="1559696504788">
         <mark key="[" line="3" column="7" />
@@ -199,7 +205,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/Alcohol.java" timestamp="1560498480533">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceNameDto.java" timestamp="1562907673580">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceNameDto.java" timestamp="1563418420075">
         <mark key="[" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UserService.java" timestamp="1560498460503">
@@ -228,7 +234,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1560411224426">
         <mark key="[" line="2" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1563267527574">
+      <file name="/fragment.java" timestamp="1563418684309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholList.java" timestamp="1559027628619">
