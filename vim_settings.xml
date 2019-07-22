@@ -142,7 +142,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1563768156151" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1563770554581" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholInfo2Dto.java" timestamp="1560304521379">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -177,10 +177,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563436707680">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1563770828896">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UserController.java" timestamp="1561522284342">
         <mark key="[" line="29" column="0" />
@@ -242,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgUmVzdWx0U2V0IHJzID0gZGV2aWNlU2VydmljZS5nZXREZXZpY2VJbmZvTGlzdChsaW1pdCwgb2Zmc2V0KTs=</text>
+        <text>コード整形の統一（Google Java Style適用）</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgUmVzdWx0U2V0IHJzID0gZGV2aWNlU2VydmljZS5nZXREZXZpY2VJbmZvTGlzdChsaW1pdCwgb2Zmc2V0KTs=</text>
+        <text>コード整形の統一（Google Java Style適用）</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -253,28 +253,19 @@
       <register name="0" type="4">
         <text>Alcoholテーブル</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBhID0gbmV3IGphdmEudXRpbC5EYXRlKHRzcy5nZXRUaW1lKCkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZHRmID0KICAgICAgICAvLyAgICAgICAgICAgIERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCdUJ0hIOm1tOnNzWFhYIik7IC8vIJW2jpqX8YN0g0iBW4N9g2KDZ4LgRGF0ZSBBbmQKICAgICAgICAvLyBUaW1lIEFQSYLFCgogICAgICAgIC8vIFN0cmluZyBzdHJEYXRlID0gZGV2aWNlSW5mb0xpc3QuZ2V0KGkpLmxhdGVzdFJlY2VpdmU7CgogICAgICAgIC8vIExvY2FsRGF0ZVRpbWUgZGF0ZSA9IGRldmljZUluZm9MaXN0LmdldChpKS5sYXRlc3RSZWNlaXZlOwogICAgICAgIC8vIFN0cmluZyBlbmRQZXJpb2QgPSBkYXRlLmZvcm1hdChmb3JtYXR0ZXIpOwoKICAgICAgICAvLyAgICAgICAgTG9jYWxEYXRlVGltZSBkYXRlID0KICAgICAgICAvLyAgICAgICAgICAgIExvY2FsRGF0ZVRpbWUucGFyc2Uoc2YuZm9ybWF0KGRldmljZUluZm9MaXN0LmdldChpKS5sYXRlc3RSZWNlaXZlKSwgZHRmKTsKCiAgICAgICAgLy8gICAgICAgIExvY2FsRGF0ZVRpbWUgZGF0ZSA9IG51bGw7CiAgICAgICAgLy8gICAgICAgIERhdGVUaW1lRm9ybWF0dGVyIHNkZiA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCdUJ0hIOm1tOnNzWFhYIik7CiAgICAgICAgLy8gICAgICAgIGRhdGUgPSBMb2NhbERhdGUucGFyc2Uoc3RyRGF0ZSwgc2RmKS5hdFRpbWUoMCwgMCk7CgogICAgICAgIC8vICAgICAgICBUaW1lc3RhbXAgdHMgPSBkZXZpY2VJbmZvTGlzdC5nZXRUaW1lc3RhbXAoZGV2aWNlSW5mb0xpc3QuZ2V0KGkpLmxhdGVzdFJlY2VpdmUpOwogICAgICAgIC8vIC8vIHJzgs1SZXN1bHRTZXQKICAgICAgICAvLyAgICAgICAgTG9jYWxEYXRlVGltZSBsZHQgPSBUaW1lc3RhbXAudG9Mb2NhbERhdGVUaW1lKCk7CiAgICAgICAgLy8gICAgICAgIERhdGVUaW1lRm9ybWF0dGVyIGR0ZiA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS1NTS1kZCdUJ0hIOm1tOnNzWFhYIik7CiAgICAgICAgLy8gLy8glbaOmpfxg3SDSIFbg32DYoNnguBEYXRlIEFuZCBUaW1lIEFQSYLFCiAgICAgICAgLy8gICAgICAgIFN0cmluZyBkYXRlU3RyID0gZHRmLmZvcm1hdChsZHQpOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgICAgIERhdGVUaW1lRm9ybWF0dGVyIGYgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXkvTU0vZGQgSEg6bW06c3MiKTsKICAgICAgICAvLyAgICAgICAgTG9jYWxEYXRlVGltZSBkID0gTG9jYWxEYXRlVGltZS5wYXJzZShkZXZpY2VJbmZvTGlzdC5nZXQoaSkubGF0ZXN0UmVjZWl2ZSwgZik7CiAgICAgICAgLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkLmZvcm1hdChmKSk7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgICAgVGltZXN0YW1wIHRzcyA9IGRldmljZUluZm9MaXN0LmdldChpKS5sYXRlc3RSZWNlaXZlOwogICAgICAgIC8vICAgICAgICBEYXRlVGltZUZvcm1hdChkZXZpY2VJbmZvTGlzdC5nZXQoaSkubGF0ZXN0UmVjZWl2ZSk7</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBUaW1lc3RhbXAgdGltZXN0YW1wID0gZGV2aWNlSW5mb0xpc3QuZ2V0KGkpLmxhdGVzdFJlY2VpdmU7CiAgICAgICAgTG9jYWxEYXRlVGltZSBkYXRlVGltZSA9IExvY2FsRGF0ZVRpbWUucGFyc2UodGltZXN0YW1wLGZvcm1hdHRlcik7CgogICAgICAgIFN0cmluZyBlbmRQZXJpb2QgPSB0aW1lc3RhbXAuZm9ybWF0KGZvcm1hdHRlcik7</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2YuZm9ybWF0KGRldmljZUluZm9MaXN0LmdldChpKS5sYXRlc3RSZWNlaXZlKSk7CiAgICAgICAgZGV2aWNlSW5mb0RldGFpbER0by5zZXRMYXRlc3RSZWNlaXZlKHNmLmZvcm1hdChkZXZpY2VJbmZvTGlzdC5nZXQoaSkubGF0ZXN0UmVjZWl2ZSkpOw==</text>
       </register>
-      <register name="3" type="4">
-        <text>// Spotless
-spotless {
-	java {
-		googleJavaFormat('1.6') //Google Java Style
-	}
-}
-compileJava.dependsOn 'spotlessApply'   //コンパイル時に自動コード整形</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlVGltZSBhID0gbmV3IGphdmEudXRpbC5EYXRlKHRzcy5nZXRUaW1lKCkpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CS8vIGZvciBTcG90bGVzcwoJY29tcGlsZSgnY29tLmRpZmZwbHVnLnNwb3RsZXNzOnNwb3RsZXNzLXBsdWdpbi1ncmFkbGU6My4xNS4wJyk=</text>
+        <text encoding="base64">ICAgICAgICBUaW1lc3RhbXAgdGltZXN0YW1wID0gZGV2aWNlSW5mb0xpc3QuZ2V0KGkpLmxhdGVzdFJlY2VpdmU7CiAgICAgICAgTG9jYWxEYXRlVGltZSBkYXRlVGltZSA9IExvY2FsRGF0ZVRpbWUucGFyc2UodGltZXN0YW1wLGZvcm1hdHRlcik7CgogICAgICAgIFN0cmluZyBlbmRQZXJpb2QgPSB0aW1lc3RhbXAuZm9ybWF0KGZvcm1hdHRlcik7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLy+DZoFbg16CzI7mk76BaYOKg1iDZ4FqCiAgICAgICAgICAgIExpc3Q8RGV2aWNlcz4gZGV2aWNlc0xpc3QgPSBkZXZpY2VTZXJ2aWNlLmdldERldmljZU5hbWVMaXN0KCk7CgogICAgICAgICAgICAvL21ldGGDZoFbg16C8ERUT4LJg1qDYoNnCiAgICAgICAgICAgIERldmljZU5hbWVNZXRhRGF0YUR0byBkZXZpY2VOYW1lTWV0YURhdGFEdG8gPSBuZXcgRGV2aWNlTmFtZU1ldGFEYXRhRHRvKCk7CiAgICAgICAgICAgIGRldmljZU5hbWVNZXRhRGF0YUR0by5zZXRUb3RhbChkZXZpY2VTZXJ2aWNlLmdldFNlbGVjdEFsbENvdW50KCkpOwoKICAgICAgICAgICAgLy9EZXZpY2VOYW1lSW5mb0R0b4Lwg4qDWINnjGCOroLJgrWBQWRldmljZXODZoFbg16C8INag2KDZwogICAgICAgICAgICBMaXN0PERldmljZU5hbWVJbmZvRHRvPiBkZXZpY2VOYW1lSW5mb0xpc3REdG8gPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkZXZpY2VzTGlzdC5zaXplKCk7IGkrKykgewoKICAgICAgICAgICAgICAgIERldmljZU5hbWVJbmZvRHRvIGRldmljZU5hbWVJbmZvRHRvID0gbmV3IERldmljZU5hbWVJbmZvRHRvKCk7CgogICAgICAgICAgICAgICAgZGV2aWNlTmFtZUluZm9EdG8uc2V0SWQoZGV2aWNlc0xpc3QuZ2V0KGkpLmlkKTsKICAgICAgICAgICAgICAgIGRldmljZU5hbWVJbmZvRHRvLnNldERldmljRXVpKGRldmljZXNMaXN0LmdldChpKS5kZXZpY2VFdWkpOwogICAgICAgICAgICAgICAgZGV2aWNlTmFtZUluZm9EdG8uc2V0TWV0ZXJJZChkZXZpY2VzTGlzdC5nZXQoaSkubWV0ZXJJZCk7CiAgICAgICAgICAgICAgICBkZXZpY2VOYW1lSW5mb0xpc3REdG8uYWRkKGRldmljZU5hbWVJbmZvRHRvKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9EZXZpY2VOYW1lSW5mb0R0b4LwRGV2aWNlTmFtZUxpc3REdG+CyYNag2KDZwogICAgICAgICAgICBEZXZpY2VOYW1lTGlzdER0byBkZXZpY2VOYW1lTGlzdER0byA9IG5ldyBEZXZpY2VOYW1lTGlzdER0bygpOwogICAgICAgICAgICBkZXZpY2VOYW1lTGlzdER0by5zZXREZXZpY2VzKGRldmljZU5hbWVJbmZvTGlzdER0byk7CgogICAgICAgICAgICAvL0RldmljZU5hbWVMaXN0RHRvgvCV1Itwl3CCzJBlRFRPgWlEZXZpY2VOYW1lRHRvgWqCyYNag2KDZwogICAgICAgICAgICBEZXZpY2VOYW1lRHRvIGRldmljZU5hbWVEdG8gPSBuZXcgRGV2aWNlTmFtZUR0bygpOwogICAgICAgICAgICBkZXZpY2VOYW1lRHRvLnNldE1ldGEoZGV2aWNlTmFtZU1ldGFEYXRhRHRvKTsKICAgICAgICAgICAgZGV2aWNlTmFtZUR0by5zZXREYXRhKGRldmljZU5hbWVMaXN0RHRvKTs=</text>
-      </register>
-      <register name="6" type="4">
         <text>// Spotless
 spotless {
 	java {
@@ -283,19 +274,24 @@ spotless {
 }
 compileJava.dependsOn 'spotlessApply'   //コンパイル時に自動コード整形</text>
       </register>
+      <register name="6" type="4">
+        <text encoding="base64">CS8vIGZvciBTcG90bGVzcwoJY29tcGlsZSgnY29tLmRpZmZwbHVnLnNwb3RsZXNzOnNwb3RsZXNzLXBsdWdpbi1ncmFkbGU6My4xNS4wJyk=</text>
+      </register>
       <register name="7" type="4">
-        <text>//    public String getMeterId() {
-//        return meter_id;
-//    }</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy+DZoFbg16CzI7mk76BaYOKg1iDZ4FqCiAgICAgICAgICAgIExpc3Q8RGV2aWNlcz4gZGV2aWNlc0xpc3QgPSBkZXZpY2VTZXJ2aWNlLmdldERldmljZU5hbWVMaXN0KCk7CgogICAgICAgICAgICAvL21ldGGDZoFbg16C8ERUT4LJg1qDYoNnCiAgICAgICAgICAgIERldmljZU5hbWVNZXRhRGF0YUR0byBkZXZpY2VOYW1lTWV0YURhdGFEdG8gPSBuZXcgRGV2aWNlTmFtZU1ldGFEYXRhRHRvKCk7CiAgICAgICAgICAgIGRldmljZU5hbWVNZXRhRGF0YUR0by5zZXRUb3RhbChkZXZpY2VTZXJ2aWNlLmdldFNlbGVjdEFsbENvdW50KCkpOwoKICAgICAgICAgICAgLy9EZXZpY2VOYW1lSW5mb0R0b4Lwg4qDWINnjGCOroLJgrWBQWRldmljZXODZoFbg16C8INag2KDZwogICAgICAgICAgICBMaXN0PERldmljZU5hbWVJbmZvRHRvPiBkZXZpY2VOYW1lSW5mb0xpc3REdG8gPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBkZXZpY2VzTGlzdC5zaXplKCk7IGkrKykgewoKICAgICAgICAgICAgICAgIERldmljZU5hbWVJbmZvRHRvIGRldmljZU5hbWVJbmZvRHRvID0gbmV3IERldmljZU5hbWVJbmZvRHRvKCk7CgogICAgICAgICAgICAgICAgZGV2aWNlTmFtZUluZm9EdG8uc2V0SWQoZGV2aWNlc0xpc3QuZ2V0KGkpLmlkKTsKICAgICAgICAgICAgICAgIGRldmljZU5hbWVJbmZvRHRvLnNldERldmljRXVpKGRldmljZXNMaXN0LmdldChpKS5kZXZpY2VFdWkpOwogICAgICAgICAgICAgICAgZGV2aWNlTmFtZUluZm9EdG8uc2V0TWV0ZXJJZChkZXZpY2VzTGlzdC5nZXQoaSkubWV0ZXJJZCk7CiAgICAgICAgICAgICAgICBkZXZpY2VOYW1lSW5mb0xpc3REdG8uYWRkKGRldmljZU5hbWVJbmZvRHRvKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLy9EZXZpY2VOYW1lSW5mb0R0b4LwRGV2aWNlTmFtZUxpc3REdG+CyYNag2KDZwogICAgICAgICAgICBEZXZpY2VOYW1lTGlzdER0byBkZXZpY2VOYW1lTGlzdER0byA9IG5ldyBEZXZpY2VOYW1lTGlzdER0bygpOwogICAgICAgICAgICBkZXZpY2VOYW1lTGlzdER0by5zZXREZXZpY2VzKGRldmljZU5hbWVJbmZvTGlzdER0byk7CgogICAgICAgICAgICAvL0RldmljZU5hbWVMaXN0RHRvgvCV1Itwl3CCzJBlRFRPgWlEZXZpY2VOYW1lRHRvgWqCyYNag2KDZwogICAgICAgICAgICBEZXZpY2VOYW1lRHRvIGRldmljZU5hbWVEdG8gPSBuZXcgRGV2aWNlTmFtZUR0bygpOwogICAgICAgICAgICBkZXZpY2VOYW1lRHRvLnNldE1ldGEoZGV2aWNlTmFtZU1ldGFEYXRhRHRvKTsKICAgICAgICAgICAgZGV2aWNlTmFtZUR0by5zZXREYXRhKGRldmljZU5hbWVMaXN0RHRvKTs=</text>
       </register>
       <register name="8" type="4">
-        <text>//    public String getDeviceEui() {
-//        return device_eui;
-//    }</text>
+        <text>// Spotless
+spotless {
+	java {
+		googleJavaFormat('1.6') //Google Java Style
+	}
+}
+compileJava.dependsOn 'spotlessApply'   //コンパイル時に自動コード整形</text>
       </register>
       <register name="9" type="4">
-        <text>//    public Integer getId() {
-//        return id;
+        <text>//    public String getMeterId() {
+//        return meter_id;
 //    }</text>
       </register>
     </registers>
