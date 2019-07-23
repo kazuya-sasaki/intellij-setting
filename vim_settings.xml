@@ -43,9 +43,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/Devise.java" timestamp="1559544497097">
         <mark key="[" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/MetricChartInfoListDto.java" timestamp="1563855717317">
-        <mark key="[" line="13" column="2" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/MetricChartInfoListDto.java" timestamp="1563856298697" />
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/main/java/co/tripodworks/iot/muratamdms/MuratamdmsApplication.java" timestamp="1562229009099">
         <mark key="[" line="6" column="0" />
       </file>
@@ -221,6 +219,9 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceNameDto.java" timestamp="1563418420075">
         <mark key="[" line="2" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/MetricsChartAll.java" timestamp="1563856493579">
+        <mark key="[" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/UserService.java" timestamp="1560498460503">
         <mark key="[" line="27" column="8" />
         <mark key="]" line="69" column="0" />
@@ -257,7 +258,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/MetricService.java" timestamp="1563843129849">
         <mark key="[" line="34" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1563845122102">
+      <file name="/fragment.java" timestamp="1563856264472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/AlcoholList.java" timestamp="1559027628619">
@@ -274,10 +275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLy8KICAgICAgLy8gICAgICAvLyBNZXRyaWNJbmZvRGV0YWlsRHRvgvBNZXRyaWNJbmZvTGlzdER0b4LJg1qDYoNnCiAgICAgIC8vICAgICAgTWV0cmljSW5mb0xpc3REdG8gbWV0cmljSW5mb0xpc3REdG8gPSBuZXcgTWV0cmljSW5mb0xpc3REdG8oKTsKICAgICAgLy8gICAgICBtZXRyaWNJbmZvTGlzdER0by5zZXRNZXRyaWNzKG1ldHJpY0luZm9EZXRhaWxMaXN0RHRvKTs=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgLy8gICAgICBMaXN0PE1ldHJpY0luZm9EZXRhaWxEdG8+IG1ldHJpY0luZm9EZXRhaWxMaXN0RHRvID0gbmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
