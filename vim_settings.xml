@@ -12,11 +12,6 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceNameMetaDataDto.java" timestamp="1562913175700">
         <mark key="[" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/MetricInfoDetailDto.java" timestamp="1563872543095">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/MetricInfoCountDto.java" timestamp="1563872291945">
         <mark key="[" line="5" column="34" />
       </file>
@@ -155,7 +150,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/StatusInfoDto.java" timestamp="1563942757128">
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563950848522">
+      <file name="/Dummy.txt" timestamp="1563958329440">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
