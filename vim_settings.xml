@@ -119,6 +119,9 @@
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/main/java/co/tripodworks/iot/muratamdms/config/AppConfig.java" timestamp="1562230581381">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/MetricController.java" timestamp="1564047166436">
+        <mark key="[" line="157" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/InsertOnDuplicateKeyUpdate.sql" timestamp="1559711219092">
         <mark key="[" line="2" column="1" />
       </file>
@@ -132,9 +135,7 @@
         <mark key="[" line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564041378126" />
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1564046461634">
-        <mark key="[" line="59" column="74" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1564046890744" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/StatusService.java" timestamp="1564016749442">
         <mark key="[" line="21" column="29" />
       </file>
@@ -153,6 +154,11 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/StatusInfoDto.java" timestamp="1563942757128">
         <mark key="[" line="8" column="10" />
       </file>
+      <file name="/Dummy.txt" timestamp="1564047585368">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UserDto.java" timestamp="1559711804355">
         <mark key="[" line="19" column="3" />
       </file>
@@ -167,6 +173,11 @@
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/StatusDao.java" timestamp="1563955817927">
         <mark key="[" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/device/DeviceDto.java" timestamp="1564047035043">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
@@ -214,10 +225,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLy8gbWV0YYNmgVuDXkRUT4LJkmyC8INag2KDZwogICAgICAvLyAgICAgIFBlcmlvZE1ldGFEYXRhRHRvIHBlcmlvZE1ldGFEYXRhRHRvID0gbmV3IFBlcmlvZE1ldGFEYXRhRHRvKCk7CiAgICAgIC8vICAgICAgcGVyaW9kTWV0YURhdGFEdG8uc2V0TGltaXRfZGF5KGxpbWl0X2RheSk7</text>
+        <text>製造</text>
       </register>
       <register name="-" type="4">
-        <text>import javax.validation.Valid;</text>
+        <text>製造</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -226,31 +237,31 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgLy8gbWV0YYNmgVuDXkRUT4LJkmyC8INag2KDZwogICAgICAvLyAgICAgIFBlcmlvZE1ldGFEYXRhRHRvIHBlcmlvZE1ldGFEYXRhRHRvID0gbmV3IFBlcmlvZE1ldGFEYXRhRHRvKCk7CiAgICAgIC8vICAgICAgcGVyaW9kTWV0YURhdGFEdG8uc2V0TGltaXRfZGF5KGxpbWl0X2RheSk7</text>
+        <text encoding="base64">ICAgICAgLy8gldSLcJdwgsyQZURUT4FpTWV0cmljQ291bnREdG+BaoLJg1qDYoNnCiAgICAgIE1ldHJpY0NvdW50RHRvIG1ldHJpY0NvdW50RHRvID0gbmV3IE1ldHJpY0NvdW50RHRvKCk7CiAgICAgIG1ldHJpY0NvdW50RHRvLnNldFN0YXR1cyhzdGF0dXMpOwogICAgICBtZXRyaWNDb3VudER0by5zZXRNZXRhKGNvdW50TWV0YURhdGFEdG8pOwogICAgICBtZXRyaWNDb3VudER0by5zZXREYXRhKG1ldHJpY0NvdW50RGF0YUR0byk7</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgU2ltcGxlUmVzcG9uc2VEYXRhRHRvPEVtcGxveWVlRHRvPiBkdG8gPSBuZXcgU2ltcGxlUmVzcG9uc2VEYXRhRHRvPD4oKTsKICAgICAgZHRvLmFkZERhdGEoImVtcGxveWVlIiwgcGFyYW0pOw==</text>
+        <text encoding="base64">ICAgICAgLy8gbWV0YYNmgVuDXkRUT4LJkmyC8INag2KDZwogICAgICAvLyAgICAgIFBlcmlvZE1ldGFEYXRhRHRvIHBlcmlvZE1ldGFEYXRhRHRvID0gbmV3IFBlcmlvZE1ldGFEYXRhRHRvKCk7CiAgICAgIC8vICAgICAgcGVyaW9kTWV0YURhdGFEdG8uc2V0TGltaXRfZGF5KGxpbWl0X2RheSk7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgLy8gldSLcJdwgsyQZURUT4FpU3RhdHVzQ291bnREdG+BaoLJg1qDYoNnCiAgICAgIFN0YXR1c0NvdW50RHRvIHN0YXR1c0NvdW50RHRvID0gbmV3IFN0YXR1c0NvdW50RHRvKCk7CiAgICAgIHN0YXR1c0NvdW50RHRvLnNldFN0YXR1cyhzdGF0dXMpOwogICAgICBzdGF0dXNDb3VudER0by5zZXRNZXRhKGNvdW50TWV0YURhdGFEdG8pOwogICAgICBzdGF0dXNDb3VudER0by5zZXREYXRhKHN0YXR1c0NvdW50RGF0YUR0byk7CgogICAgICAvLyBTdGF0dXNJbmZvQ291bnREdG+V1ItwCiAgICAgIHJldHVybiBzdGF0dXNDb3VudER0bzs=</text>
+        <text encoding="base64">ICAgICAgU2ltcGxlUmVzcG9uc2VEYXRhRHRvPEVtcGxveWVlRHRvPiBkdG8gPSBuZXcgU2ltcGxlUmVzcG9uc2VEYXRhRHRvPD4oKTsKICAgICAgZHRvLmFkZERhdGEoImVtcGxveWVlIiwgcGFyYW0pOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgLy8gU3RhdHVzSW5mb0xpc3REdG+C8JXUi3CXcILMkGVEVE+BaVN0YXR1c0R0b4FqgsmDWoNig2cKICAgICAgU3RhdHVzRHRvIHN0YXR1c0R0byA9IG5ldyBTdGF0dXNEdG8oKTsKICAgICAgc3RhdHVzRHRvLnNldE1ldGEobWV0YURhdGFEdG8pOwogICAgICBzdGF0dXNEdG8uc2V0RGF0YShzdGF0dXNMaXN0RHRvKTsKCiAgICAgIC8vIFN0YXR1c0luZm9EdG+V1ItwCiAgICAgIHJldHVybiBzdGF0dXNEdG87</text>
+        <text encoding="base64">ICAgICAgLy8gldSLcJdwgsyQZURUT4FpU3RhdHVzQ291bnREdG+BaoLJg1qDYoNnCiAgICAgIFN0YXR1c0NvdW50RHRvIHN0YXR1c0NvdW50RHRvID0gbmV3IFN0YXR1c0NvdW50RHRvKCk7CiAgICAgIHN0YXR1c0NvdW50RHRvLnNldFN0YXR1cyhzdGF0dXMpOwogICAgICBzdGF0dXNDb3VudER0by5zZXRNZXRhKGNvdW50TWV0YURhdGFEdG8pOwogICAgICBzdGF0dXNDb3VudER0by5zZXREYXRhKHN0YXR1c0NvdW50RGF0YUR0byk7CgogICAgICAvLyBTdGF0dXNJbmZvQ291bnREdG+V1ItwCiAgICAgIHJldHVybiBzdGF0dXNDb3VudER0bzs=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgLy8gldSLcJdwRFRPgsmSbILwg1qDYoNnCiAgICAgIFBlcmlvZER0byBwZXJpb2REdG8gPSBuZXcgUGVyaW9kRHRvKCk7CiAgICAgIHBlcmlvZER0by5zZXRNZXRhKHBlcmlvZE1ldGFEYXRhRHRvKTsKICAgICAgcGVyaW9kRHRvLnNldERhdGEocGVyaW9kSW5mb0R0byk7CgogICAgICByZXR1cm4gcGVyaW9kRHRvOw==</text>
+        <text encoding="base64">ICAgICAgLy8gU3RhdHVzSW5mb0xpc3REdG+C8JXUi3CXcILMkGVEVE+BaVN0YXR1c0R0b4FqgsmDWoNig2cKICAgICAgU3RhdHVzRHRvIHN0YXR1c0R0byA9IG5ldyBTdGF0dXNEdG8oKTsKICAgICAgc3RhdHVzRHRvLnNldE1ldGEobWV0YURhdGFEdG8pOwogICAgICBzdGF0dXNEdG8uc2V0RGF0YShzdGF0dXNMaXN0RHRvKTsKCiAgICAgIC8vIFN0YXR1c0luZm9EdG+V1ItwCiAgICAgIHJldHVybiBzdGF0dXNEdG87</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgLy8gQ29tbWFuZEluZm9MaXN0RHRvgvCV1Itwl3CCzJBlRFRPgWlDb21tYW5kRHRvgWqCyYNag2KDZwogICAgICBDb21tYW5kRHRvIGNvbW1hbmREdG8gPSBuZXcgQ29tbWFuZER0bygpOwogICAgICBjb21tYW5kRHRvLnNldE1ldGEobWV0YURhdGFEdG8pOwogICAgICBjb21tYW5kRHRvLnNldERhdGEoY29tbWFuZExpc3REdG8pOwoKICAgICAgLy8gQ29tbWFuZEluZm9EdG+V1ItwCiAgICAgIHJldHVybiBjb21tYW5kRHRvOw==</text>
+        <text encoding="base64">ICAgICAgLy8gldSLcJdwRFRPgsmSbILwg1qDYoNnCiAgICAgIFBlcmlvZER0byBwZXJpb2REdG8gPSBuZXcgUGVyaW9kRHRvKCk7CiAgICAgIHBlcmlvZER0by5zZXRNZXRhKHBlcmlvZE1ldGFEYXRhRHRvKTsKICAgICAgcGVyaW9kRHRvLnNldERhdGEocGVyaW9kSW5mb0R0byk7CgogICAgICByZXR1cm4gcGVyaW9kRHRvOw==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICAgCiAgICAgIC8vIE1ldHJpY0luZm9Db3VudER0b5XUi3AKICAgICAgcmV0dXJuIG1ldHJpY0NvdW50RHRvOw==</text>
+        <text encoding="base64">ICAgICAgLy8gQ29tbWFuZEluZm9MaXN0RHRvgvCV1Itwl3CCzJBlRFRPgWlDb21tYW5kRHRvgWqCyYNag2KDZwogICAgICBDb21tYW5kRHRvIGNvbW1hbmREdG8gPSBuZXcgQ29tbWFuZER0bygpOwogICAgICBjb21tYW5kRHRvLnNldE1ldGEobWV0YURhdGFEdG8pOwogICAgICBjb21tYW5kRHRvLnNldERhdGEoY29tbWFuZExpc3REdG8pOwoKICAgICAgLy8gQ29tbWFuZEluZm9EdG+V1ItwCiAgICAgIHJldHVybiBjb21tYW5kRHRvOw==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgLy8gldSLcJdwgsyQZURUT4FpTWV0cmljQ2hhcnREdG+BaoLJg1qDYoNnCiAgICAgIE1ldHJpY0NoYXJ0RHRvIG1ldHJpY0NoYXJ0RHRvID0gbmV3IE1ldHJpY0NoYXJ0RHRvKCk7CiAgICAgIG1ldHJpY0NoYXJ0RHRvLnNldE1ldGEobWV0cmljQ2hhcnRNZXRhRGF0YUR0byk7CiAgICAgIG1ldHJpY0NoYXJ0RHRvLnNldERhdGEobWV0cmljQ2hhcnRMaXN0RHRvKTsKCiAgICAgIC8vIE1ldHJpY0NoYXJ0SW5mb0R0b5XUi3AKICAgICAgcmV0dXJuIG1ldHJpY0NoYXJ0RHRvOw==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIC8vIE1ldHJpY0luZm9Db3VudER0b5XUi3AKICAgICAgcmV0dXJuIG1ldHJpY0NvdW50RHRvOw==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgLy8gTWV0cmljSW5mb0xpc3REdG+C8JXUi3CXcILMkGVEVE+BaU1ldHJpY0R0b4FqgsmDWoNig2cKICAgICAgTWV0cmljRHRvIG1ldHJpY0R0byA9IG5ldyBNZXRyaWNEdG8oKTsKICAgICAgbWV0cmljRHRvLnNldE1ldGEobWV0YURhdGFEdG8pOwogICAgICBtZXRyaWNEdG8uc2V0RGF0YShtZXRyaWNMaXN0RHRvKTsKCiAgICAgIC8vIE1ldHJpY0luZm9EdG+V1ItwCiAgICAgIHJldHVybiBtZXRyaWNEdG87</text>
+        <text encoding="base64">ICAgICAgLy8gldSLcJdwgsyQZURUT4FpTWV0cmljQ2hhcnREdG+BaoLJg1qDYoNnCiAgICAgIE1ldHJpY0NoYXJ0RHRvIG1ldHJpY0NoYXJ0RHRvID0gbmV3IE1ldHJpY0NoYXJ0RHRvKCk7CiAgICAgIG1ldHJpY0NoYXJ0RHRvLnNldE1ldGEobWV0cmljQ2hhcnRNZXRhRGF0YUR0byk7CiAgICAgIG1ldHJpY0NoYXJ0RHRvLnNldERhdGEobWV0cmljQ2hhcnRMaXN0RHRvKTsKCiAgICAgIC8vIE1ldHJpY0NoYXJ0SW5mb0R0b5XUi3AKICAgICAgcmV0dXJuIG1ldHJpY0NoYXJ0RHRvOw==</text>
       </register>
     </registers>
     <search>
