@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ファイル '...\src\main\java\com\idnsmartmeter\mdms\controller\StatusController.java [mdms]'" />
-    <option name="defaultScopeName" value="ファイル '...\src\main\java\com\idnsmartmeter\mdms\controller\StatusController.java [mdms]'" />
-    <option name="SEARCH_SCOPE" value="ファイル '...\src\main\java\com\idnsmartmeter\mdms\controller\StatusController.java [mdms]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
