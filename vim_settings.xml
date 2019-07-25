@@ -140,8 +140,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564031389622" />
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/CommandDetailDto.java" timestamp="1564028497427" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564032446429" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/StatusService.java" timestamp="1564016749442">
         <mark key="[" line="21" column="29" />
       </file>
@@ -223,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgLy8gY29tbWFuZER0by5zZXREYXRhKGNvbW1hbmRkYXRhKTs=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgLy8gY29tbWFuZER0by5zZXREYXRhKGNvbW1hbmRkYXRhKTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -235,46 +234,32 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgLy8gSVNPODYwMZXPireXcIN0g0iBW4N9g2KDZ4FpRGF0ZVRpbWVGb3JtYXR0ZXKBagogICAgICBEYXRlVGltZUZvcm1hdHRlciBkdGYgPSBEYXRlVGltZUZvcm1hdHRlci5JU09fT0ZGU0VUX0RBVEVfVElNRTs=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgLy8gICAgICAvLyBDb21tYW5kSW5mb0RldGFpbER0b4Lwg4qDWINnjGCOroLJgrWBQUNvbW1hbmSDZoFbg16C8INag2KDZwogICAgICAvLyAgICAgIExpc3Q8Q29tbWFuZERldGFpbER0bz4gY29tbWFuZEluZm9EZXRhaWxMaXN0RHRvID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgIC8vICAgICAgZm9yIChDb21tYW5kQWxsIGNvbW1hbmRBbGwgOiBjb21tYW5kSW5mb0xpc3QpIHsKICAgICAgLy8KICAgICAgLy8gICAgICAgIENvbW1hbmREZXRhaWxEdG8gY29tbWFuZERldGFpbER0byA9IG5ldyBDb21tYW5kRGV0YWlsRHRvKCk7CiAgICAgIC8vCiAgICAgIC8vICAgICAgICBjb21tYW5kRGV0YWlsRHRvLnNldFR5cGUoY29tbWFuZEFsbC50eXBlVGV4dCk7CiAgICAgIC8vICAgICAgICBjb21tYW5kRGV0YWlsRHRvLnNldENtZElkKGNvbW1hbmRBbGwuY21kSWQpOwogICAgICAvLyAgICAgICAgY29tbWFuZERldGFpbER0by5zZXRDbWROYW1lKGNvbW1hbmRBbGwuY21kTmFtZSk7CiAgICAgIC8vICAgICAgICBjb21tYW5kRGV0YWlsRHRvLnNldElkKGNvbW1hbmRBbGwuaWQpOwogICAgICAvLyAgICAgICAgY29tbWFuZERldGFpbER0by5zZXREZXZpY2VFdWkoY29tbWFuZEFsbC5kZXZpY2VFdWkpOwogICAgICAvLyAgICAgICAgY29tbWFuZERldGFpbER0by5zZXRNZXRlcklkKGNvbW1hbmRBbGwubWV0ZXJJZCk7CiAgICAgIC8vCiAgICAgIC8vICAgICAgICAvLyB0c4LwVGltZXN0YW1wgctMb2NhbERhdGVUaW1lgctPZmZzZXREYXRlVGltZYHLU3RyaW5ngsmVz4q3CiAgICAgIC8vICAgICAgICBUaW1lc3RhbXAgdHMgPSBjb21tYW5kQWxsLnRzOwogICAgICAvLyAgICAgICAgTG9jYWxEYXRlVGltZSBsZHQgPSB0cy50b0xvY2FsRGF0ZVRpbWUoKTsKICAgICAgLy8gICAgICAgIE9mZnNldERhdGVUaW1lIG9kdCA9IGxkdC5hdE9mZnNldChab25lT2Zmc2V0Lm9mSG91cnMoOSkpOwogICAgICAvLyAgICAgICAgU3RyaW5nIGRhdGVTdHIgPSBkdGYuZm9ybWF0KG9kdCk7CiAgICAgIC8vCiAgICAgIC8vICAgICAgICBjb21tYW5kRGV0YWlsRHRvLnNldFRzKGRhdGVTdHIpOwogICAgICAvLyAgICAgICAgY29tbWFuZERldGFpbER0by5zZXRQYXlsb2FkKGNvbW1hbmRBbGwucGF5bG9hZCk7CiAgICAgIC8vCiAgICAgIC8vICAgICAgICBjb21tYW5kSW5mb0RldGFpbExpc3REdG8uYWRkKGNvbW1hbmREZXRhaWxEdG8pOwogICAgICAvLyAgICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
         <text>import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICBASnNvbkluY2x1ZGUoSnNvbkluY2x1ZGUuSW5jbHVkZS5OT05fTlVMTCkKICBASnNvblByb3BlcnR5KCJjb21tYW5kbG9nIikKICBwcml2YXRlIExpc3Q8Q29tbWFuZERldGFpbER0bz4gY29tbWFuZGRhdGEgPSBuZXcgQXJyYXlMaXN0PD4oKTs=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgQEpzb25JbmNsdWRlKEpzb25JbmNsdWRlLkluY2x1ZGUuTk9OX05VTEwpCiAgICAgIEBKc29uUHJvcGVydHkoImNvbW1hbmRsb2ciKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRDb21tYW5kRGF0YShMaXN0PENvbW1hbmREZXRhaWxEdG8+IGNvbW1hbmRkYXRhKSB7CiAgICB0aGlzLmNvbW1hbmRkYXRhID0gY29tbWFuZGRhdGE7CiAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAvLyAgICAgICAgU3RyaW5nIHN0cjEgPSBjb21tYW5kQWxsLnBheWxvYWQ7CiAgICAgICAgLy8gICAgICAgIFN0cmluZyBzdHIyID0gc3RyMS5yZXBsYWNlKCIiIiIiIiIsICJcIiIpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAxCiAgICAgICAgMgogICAgICAgIDM=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRTaHV0b2ZmQ29uZChjb21tYW5kQWxsLnNodXRvZmZDb25kKTsKICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRTaHV0b2ZmQ29uZFRleHQoY29tbWFuZEFsbC5zaHV0b2ZmQ29uZFRleHQpOwogICAgICAgIGNvbW1hbmRJbmZvRGV0YWlsRHRvLnNldFNodXRvZmZSZWFzb24oY29tbWFuZEFsbC5zaHV0b2ZmUmVhc29uKTsKICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRTaHV0b2ZmUmVhc29uVGV4dChjb21tYW5kQWxsLnNodXRvZmZSZWFzb25UZXh0KTsKICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRCYXR0ZXJ5QWxlcm0oY29tbWFuZEFsbC5iYXR0ZXJ5QWxlcm0pOwogICAgICAgIGNvbW1hbmRJbmZvRGV0YWlsRHRvLnNldEJhdHRlcnlBbGVybVRleHQoY29tbWFuZEFsbC5iYXR0ZXJ5QWxlcm1UZXh0KTs=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRTaHV0b2ZmQ29uZFRleHQoU3RyaW5nIHNodXRvZmZfY29uZF90ZXh0KSB7CiAgICB0aGlzLnNodXRvZmZfY29uZF90ZXh0ID0gc2h1dG9mZl9jb25kX3RleHQ7CiAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>public void setShutoffReason(Long shutoff_reason) {
-    this.shutoff_reason = shutoff_reason;
-  }
-
-  public void setShutoffReasonText(String shutoff_reason_text) {
-    this.shutoff_reason_text = shutoff_reason_text;
-  }
-
-  public void setBatteryAlerm(Long battery_alerm) {
-    this.battery_alerm = battery_alerm;
-  }
-
-  public void setBatteryAlermText(String battery_alerm_text) {
-    this.battery_alerm_text = battery_alerm_text;
-  }</text>
+        <text encoding="base64">ICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRTaHV0b2ZmQ29uZChjb21tYW5kQWxsLnNodXRvZmZDb25kKTsKICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRTaHV0b2ZmQ29uZFRleHQoY29tbWFuZEFsbC5zaHV0b2ZmQ29uZFRleHQpOwogICAgICAgIGNvbW1hbmRJbmZvRGV0YWlsRHRvLnNldFNodXRvZmZSZWFzb24oY29tbWFuZEFsbC5zaHV0b2ZmUmVhc29uKTsKICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRTaHV0b2ZmUmVhc29uVGV4dChjb21tYW5kQWxsLnNodXRvZmZSZWFzb25UZXh0KTsKICAgICAgICBjb21tYW5kSW5mb0RldGFpbER0by5zZXRCYXR0ZXJ5QWxlcm0oY29tbWFuZEFsbC5iYXR0ZXJ5QWxlcm0pOwogICAgICAgIGNvbW1hbmRJbmZvRGV0YWlsRHRvLnNldEJhdHRlcnlBbGVybVRleHQoY29tbWFuZEFsbC5iYXR0ZXJ5QWxlcm1UZXh0KTs=</text>
       </register>
     </registers>
     <search>
