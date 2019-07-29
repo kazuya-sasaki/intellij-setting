@@ -128,13 +128,15 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/InsertOnDuplicateKeyUpdate.sql" timestamp="1559711219092">
         <mark key="[" line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/DeviceService.java" timestamp="1564392394133" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/AlcoholView.java" timestamp="1560399782295">
         <mark key="[" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564384415068" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564392443541" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1564392458032" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/MetaDataDto.java" timestamp="1564118788378">
         <mark key="[" line="17" column="0" />
       </file>
@@ -205,6 +207,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/CommandInfoListDto.java" timestamp="1564018138170">
         <mark key="[" line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564392548936" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
       </file>
@@ -240,10 +243,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgUmVzcG9uc2VEdG8gcmVzcG9uc2VEdG8gPSBuZXcgUmVzcG9uc2VEdG8oc3RhdHVzLCBtZXRhRGF0YUR0byk7CiAgICAgIHJlc3BvbnNlRHRvLnNldERhdGEoY291bnREdG8pOw==</text>
+        <text>import com.idnsmartmeter.mdms.dto.request.DeviceRequestDto;</text>
       </register>
       <register name="-" type="4">
-        <text>import org.seasar.doma.jdbc.command.Command;</text>
+        <text>import com.idnsmartmeter.mdms.dto.request.DeviceRequestDto;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
