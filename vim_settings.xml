@@ -49,6 +49,11 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseDto2.java" timestamp="1564105824626">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/LoRaService.java" timestamp="1564393539568">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/main/java/co/tripodworks/iot/muratamdms/MuratamdmsApplication.java" timestamp="1562229009099">
         <mark key="[" line="6" column="0" />
       </file>
@@ -207,7 +212,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/CommandInfoListDto.java" timestamp="1564018138170">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564392548936" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564392801502" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
       </file>
@@ -243,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import com.idnsmartmeter.mdms.dto.request.DeviceRequestDto;</text>
+        <text>, HttpServletRequest request</text>
       </register>
       <register name="-" type="4">
-        <text>import com.idnsmartmeter.mdms.dto.request.DeviceRequestDto;</text>
+        <text>, HttpServletRequest request</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
