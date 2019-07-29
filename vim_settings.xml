@@ -33,22 +33,13 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/device/DeviceDetailDto.java" timestamp="1564035115775">
         <mark key="[" line="47" column="22" />
       </file>
-      <file name="/a.dummy" timestamp="1564122519071">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/entity/vAlcohols.java" timestamp="1559614424832">
         <mark key="[" line="44" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/build.gradle" timestamp="1560132524501">
         <mark key="[" line="60" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/PeriodController.java" timestamp="1564134276001">
-        <mark key="[" line="40" column="2" />
-        <mark key="]" line="40" column="2" />
-        <mark key="." line="40" column="2" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/PeriodController.java" timestamp="1564384736751" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/PeriodMetaDataDto.java" timestamp="1562907539207">
         <mark key="[" line="3" column="0" />
       </file>
@@ -91,11 +82,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceInfoMetaDataDto.java" timestamp="1563423720747">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/StatusController.java" timestamp="1564381278082">
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="8" />
-        <mark key="." line="80" column="8" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/StatusController.java" timestamp="1564384934344" />
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/test/java/co/tripodworks/iot/muratamdms/MuratamdmsApplicationTests.java" timestamp="1562229360420">
         <mark key="[" line="15" column="0" />
       </file>
@@ -138,9 +125,6 @@
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/main/java/co/tripodworks/iot/muratamdms/config/AppConfig.java" timestamp="1562230581381">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/MetricController.java" timestamp="1564381359562">
-        <mark key="[" line="141" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/InsertOnDuplicateKeyUpdate.sql" timestamp="1559711219092">
         <mark key="[" line="2" column="1" />
       </file>
@@ -150,14 +134,9 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564383430444" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/CommandController.java" timestamp="1564384415068" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/MetaDataDto.java" timestamp="1564118788378">
         <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/request/MetricRequestDto.java" timestamp="1564133049613">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/metriclogs/MetricDto.java" timestamp="1564378935736" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/StatusService.java" timestamp="1564361583990">
@@ -189,7 +168,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/StatusInfoDto.java" timestamp="1563942757128">
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564379341926">
+      <file name="/Dummy.txt" timestamp="1564385160367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -261,7 +240,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgLy8gICAgICBSZXNwb25zZUxpc3REdG8gcmVzcG9uc2VMaXN0RHRvID0KICAgICAgLy8gICAgICAgICAgbmV3IFJlc3BvbnNlTGlzdER0byhSZXNwb25zZUxpc3REdG8uU3RhdHVzLlN1Y2Nlc3MsIG1ldGFEYXRhRHRvKTsKICAgICAgLy8gICAgICByZXNwb25zZUxpc3REdG8uc2V0RGF0YSgiY29tbWFuZGxvZyIsIGNvbW1hbmRJbmZvRGV0YWlsTGlzdER0byk7</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VEdG8gcmVzcG9uc2VEdG8gPSBuZXcgUmVzcG9uc2VEdG8oc3RhdHVzLCBtZXRhRGF0YUR0byk7CiAgICAgIHJlc3BvbnNlRHRvLnNldERhdGEoY291bnREdG8pOw==</text>
       </register>
       <register name="-" type="4">
         <text>import org.seasar.doma.jdbc.command.Command;</text>
@@ -273,31 +252,32 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgLy8gICAgICBSZXNwb25zZUxpc3REdG8gcmVzcG9uc2VMaXN0RHRvID0KICAgICAgLy8gICAgICAgICAgbmV3IFJlc3BvbnNlTGlzdER0byhSZXNwb25zZUxpc3REdG8uU3RhdHVzLlN1Y2Nlc3MsIG1ldGFEYXRhRHRvKTsKICAgICAgLy8gICAgICByZXNwb25zZUxpc3REdG8uc2V0RGF0YSgiY29tbWFuZGxvZyIsIGNvbW1hbmRJbmZvRGV0YWlsTGlzdER0byk7</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VEdG8gcmVzcG9uc2VEdG8gPSBuZXcgUmVzcG9uc2VEdG8oc3RhdHVzLCBtZXRhRGF0YUR0byk7CiAgICAgIHJlc3BvbnNlRHRvLnNldERhdGEoY291bnREdG8pOw==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUmVzcG9uc2VMaXN0RHRvPE1ldGFEYXRhRHRvLCBMaXN0PERldmljZUxpc3REdG8+PiByZXNwb25zZUxpc3REdG8gPQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VMaXN0RHRvIHJlc3BvbnNlTGlzdER0byA9CiAgICAgICAgICBuZXcgUmVzcG9uc2VMaXN0RHRvKFJlc3BvbnNlTGlzdER0by5TdGF0dXMuU3VjY2VzcywgbWV0YURhdGFEdG8pOwogICAgICByZXNwb25zZUxpc3REdG8uc2V0RGF0YSgic3RhdHVzZGF0YSIsIHN0YXR1c0luZm9EZXRhaWxMaXN0RHRvKTs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIE9mZnNldERhdGVUaW1lIG9kdCA9IE9mZnNldERhdGVUaW1lLm5vdyAoIFpvbmVJZC5zeXN0ZW1EZWZhdWx0ICgpICk7CiAgICBab25lT2Zmc2V0IHpvbmVPZmZzZXQgPSBvZHQuZ2V0T2Zmc2V0ICgpOw==</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VEdG8gcmVzcG9uc2VEdG8gPSBuZXcgUmVzcG9uc2VEdG8oUmVzcG9uc2VEdG8uU3RhdHVzLlN1Y2Nlc3MsIG1ldGFEYXRhRHRvKTsKICAgICAgcmVzcG9uc2VEdG8uc2V0RGF0YShwZXJpb2REdG8pOw==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAvLyAgcHVibGljIGludCBnZXRMaW1pdF9kYXkoKSB7CiAgLy8gICAgcmV0dXJuIHRoaXMubGltaXRfZGF5OwogIC8vICB9</text>
+        <text encoding="base64">ICAgICBSZXNwb25zZUxpc3REdG8gcmVzcG9uc2VMaXN0RHRvID0KICAgICAgICAgIG5ldyBSZXNwb25zZUxpc3REdG8oUmVzcG9uc2VMaXN0RHRvLlN0YXR1cy5TdWNjZXNzLCBtZXRhRGF0YUR0byk7CiAgICAgIHJlc3BvbnNlTGlzdER0by5zZXREYXRhKCJtZXRyaWMiLCBtZXRyaWNJbmZvRGV0YWlsTGlzdER0byk7</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXREZXZpY2VldWkoU3RyaW5nIGkpIHsKICAgIHRoaXMuZGV2aWNlZXVpID0gaTsKICB9</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VEdG8gcmVzcG9uc2VEdG8gPSBuZXcgUmVzcG9uc2VEdG8oUmVzcG9uc2VEdG8uU3RhdHVzLlN1Y2Nlc3MsIG1ldGFEYXRhRHRvKTsKICAgICAgcmVzcG9uc2VEdG8uc2V0RGF0YShtZXRyaWNDaGFydER0byk7</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBzZXRMaW1pdChpbnQgaSkgewogICAgdGhpcy5saW1pdCA9IGk7CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRPZmZzZXQoaW50IGkpIHsKICAgIHRoaXMub2Zmc2V0ID0gaTsKICB9</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VEdG8gcmVzcG9uc2VEdG8gPSBuZXcgUmVzcG9uc2VEdG8oc3RhdHVzLCBtZXRhRGF0YUR0byk7CiAgICAgIHJlc3BvbnNlRHRvLnNldERhdGEoY291bnREdG8pOw==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICBATm90TnVsbAogIEBNaW4oMSkgLy8gjcWPrAogIEBNYXgoMTAwMCkgLy8gjcWR5QogIHB1YmxpYyBpbnQgbGltaXQ7CgogIEBOb3ROdWxsIHB1YmxpYyBpbnQgb2Zmc2V0Ow==</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VMaXN0RHRvIHJlc3BvbnNlTGlzdER0byA9CiAgICAgICAgICBuZXcgUmVzcG9uc2VMaXN0RHRvKFJlc3BvbnNlTGlzdER0by5TdGF0dXMuU3VjY2VzcywgbWV0YURhdGFEdG8pOwogICAgICByZXNwb25zZUxpc3REdG8uc2V0RGF0YSgiZGV2aWNlcyIsIGRldmljZU5hbWVJbmZvTGlzdER0byk7</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAvLyAgcHVibGljIFJlc3BvbnNlTGlzdER0byBnZXRNZXRyaWNJbmZvUmVzdWx0KAogIC8vICAgICAgQFJlcXVlc3RQYXJhbSgibGltaXQiKSBpbnQgbGltaXQsCiAgLy8gICAgICBAUmVxdWVzdFBhcmFtKCJvZmZzZXQiKSBpbnQgb2Zmc2V0LAogIC8vICAgICAgQFJlcXVlc3RQYXJhbSgiZGV2aWNlZXVpIikgU3RyaW5nIGRldmljZUV1aSwKICAvLyAgICAgIEBSZXF1ZXN0UGFyYW0oInN0YXJ0ZGF0ZSIpIFN0cmluZyBzdGFydERhdGUsCiAgLy8gICAgICBAUmVxdWVzdFBhcmFtKCJlbmRkYXRlIikgU3RyaW5nIGVuZERhdGUpIHs=</text>
+        <text encoding="base64">ICAgICAgUmVzcG9uc2VMaXN0RHRvIHJlc3BvbnNlTGlzdER0byA9CiAgICAgICAgICBuZXcgUmVzcG9uc2VMaXN0RHRvKFJlc3BvbnNlTGlzdER0by5TdGF0dXMuU3VjY2VzcywgbWV0YURhdGFEdG8pOwogICAgICByZXNwb25zZUxpc3REdG8uc2V0RGF0YSgiZGV2aWNlcyIsIGRldmljZUluZm9EZXRhaWxMaXN0RHRvKTs=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBAUmVxdWVzdFBhcmFtKCJkZXZpY2VldWkiKSBTdHJpbmcgZGV2aWNlRXVpLAogIEBSZXF1ZXN0UGFyYW0oInN0YXJ0ZGF0ZSIpIFN0cmluZyBzdGFydERhdGUsCiAgQFJlcXVlc3RQYXJhbSgiZW5kZGF0ZSIpIFN0cmluZyBlbmREYXRlKSB7</text>
+        <text>//      ResponseDto responseDto = new ResponseDto(status, metaDataDto);
+//      responseDto.setData(countDto);</text>
       </register>
     </registers>
     <search>
