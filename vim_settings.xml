@@ -165,8 +165,10 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/util/Builder.java" timestamp="1559868736547">
         <mark key="[" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/application.properties" timestamp="1564366165869">
-        <mark key="[" line="2" column="77" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/application.properties" timestamp="1564375647080">
+        <mark key="[" line="2" column="118" />
+        <mark key="]" line="2" column="130" />
+        <mark key="." line="2" column="130" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/request/DeviceRequestDto.java" timestamp="1564125251232">
         <mark key="[" line="6" column="30" />
@@ -177,8 +179,8 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/StatusInfoDto.java" timestamp="1563942757128">
         <mark key="[" line="8" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564363962680">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1564375462099">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
