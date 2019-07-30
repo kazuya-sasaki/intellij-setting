@@ -204,11 +204,11 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/CommandInfoListDto.java" timestamp="1564018138170">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564478851779">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564479701433">
         <mark key="'" line="36" column="6" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="58" column="18" />
+        <mark key="]" line="58" column="18" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
@@ -247,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIHByZXNzdXJlSGV4ID0gcmVxRHRvLmRhdGEuc3Vic3RyaW5nKDQxLCA1Mik7CiAgICAgICAgICBwcmVzc3VyZSA9IEludGVnZXIucGFyc2VJbnQoZmxvd3JhdGVIZXgsIDE2KTs=</text>
+        <text>Bytes</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Bytes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
