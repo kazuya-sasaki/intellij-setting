@@ -115,7 +115,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UsersResultDto.java" timestamp="1559695010802">
         <mark key="[" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/test/java/com/idnsmartmeter/mdms/MdmsApplicationTests.java" timestamp="1562746286353">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/test/java/com/idnsmartmeter/mdms/MdmsApplicationTests.java" timestamp="1564449888425">
         <mark key="[" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" timestamp="1559782504828">
@@ -201,6 +201,11 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/CommandInfoListDto.java" timestamp="1564018138170">
         <mark key="[" line="9" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564450562678">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
       </file>
@@ -234,11 +239,11 @@
       <jump line="61" column="6" filename="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/service/MetricService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVzcG9uc2VEdG8gcG9zdExvUmFSZXN1bHQoQFZhbGlkIEBNb2RlbEF0dHJpYnV0ZSBMb1JhUmVxdWVzdER0byByZXFEdG8pIHsK</text>
+      <register name="&quot;" type="4">
+        <text>@Valid @ModelAttribute LoRaRequestDto reqDto</text>
       </register>
       <register name="-" type="4">
-        <text>, HttpServletRequest request</text>
+        <text>@Valid @ModelAttribute LoRaRequestDto reqDto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
