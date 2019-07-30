@@ -204,11 +204,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/CommandInfoListDto.java" timestamp="1564018138170">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564474542332">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564476762479" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
       </file>
@@ -244,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIHNodXRvZmZSZWFzb25IZXggPSByZXFEdG8uZGF0YS5zdWJzdHJpbmcoMjIsIDI4KTsKICAgICAgICAgIHNodXRvZmZSZWFzb24gPSBJbnRlZ2VyLnBhcnNlSW50KHNodXRvZmZSZWFzb25IZXgsIDE2KSAtIERFQ19CQVNFX1NIVVRPRkZfUkVBU09OOwoKICAgICAgICAgIC8vIGJhdHRlcnlfYWxhcm2O5pO+CiAgICAgICAgICBiYXR0ZXJ5QWxhcm1IZXggPSByZXFEdG8uZGF0YS5zdWJzdHJpbmcoMjgsIDMwKTsKICAgICAgICAgIGJhdHRlcnlBbGFybSA9IEludGVnZXIucGFyc2VJbnQoYmF0dGVyeUFsYXJtSGV4LCAxNikgLSBERUNfQkFTRTs=</text>
+        <text>Hex</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Hex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
