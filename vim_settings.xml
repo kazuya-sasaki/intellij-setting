@@ -184,7 +184,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/UsersController.java" timestamp="1559278711271">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/META-INF/com/idnsmartmeter/mdms/dao/ReceiveDao/insert.sql" timestamp="1564563366929">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/META-INF/com/idnsmartmeter/mdms/dao/ReceiveDao/insert.sql" timestamp="1564565281217">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -234,7 +234,7 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564564097662" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564565539069" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/META-INF/com/idnsmartmeter/mdms/dao/DeviceDao/insert.sql" timestamp="1564563147960" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
@@ -280,19 +280,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'2019-07-04 01:00:00', 'G08', '{&quot;data&quot;: {&quot;cmd_id&quot;: &quot;P07&quot;, &quot;meter_id&quot;: &quot;meterdummy&quot;}}');
-
-
-INSERT IGNORE INTO
-       devices (device_eui, meter_id, latest_receive)
-   VALUES
-       (/* devEui */'euidummy10',
-        /* meterId */'meterdummy10',
-        /* time */'2019-07-01 12:00:00'
-        );</text>
+        <text encoding="base64">ICAgICBqc29uRGF0YS5yZXBsYWNlKCJcIiwgIiIpOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBkZXZFdWksIHRpbWUsY21kSWQsanNvbkRhdGE=</text>
+        <text encoding="base64">ICAgICBqc29uRGF0YS5yZXBsYWNlKCJcIiwgIiIpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
