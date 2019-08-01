@@ -153,6 +153,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1564632889678" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/MetaDataDto.java" timestamp="1564548886946">
         <mark key="[" line="17" column="0" />
       </file>
@@ -165,7 +166,11 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564628328197" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564634012028">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="9" />
+        <mark key="." line="49" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/StatusAll.java" timestamp="1563942091441">
         <mark key="[" line="10" column="27" />
       </file>
@@ -278,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBAR2V0TWFwcGluZwogIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICBTZWN1cml0eUNvbnRleHQgc2VjdXJpdHlDb250ZXh0ID0gU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKTsKICAgIExvZ2luUHJpbmNpcGFsIGxvZ2luUHJpbmNpcGFsID0KICAgICAgICAoTG9naW5QcmluY2lwYWwpIHNlY3VyaXR5Q29udGV4dC5nZXRBdXRoZW50aWNhdGlvbigpLmdldFByaW5jaXBhbCgpOwoKICAgIHJldHVybiAiSGVsbG8gIiArIGxvZ2luUHJpbmNpcGFsLmdldEVtcGxveWVlTnVtYmVyKCkgKyAiISI7CiAgfQ==</text>
+        <text>authorizeRequests()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBTVFJfRVNDQVBFID0gIlxcIjs=</text>
+        <text>authorizeRequests()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
