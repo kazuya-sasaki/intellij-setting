@@ -227,10 +227,10 @@
         <mark key="[" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/MyConfigure.java" timestamp="1564624347357" />
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564646135320">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564647257934">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
@@ -288,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CustomAuthInfo</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>CustomAuthInfo</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
