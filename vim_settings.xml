@@ -166,7 +166,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564635362162">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564644386241">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -227,8 +227,10 @@
         <mark key="[" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/MyConfigure.java" timestamp="1564624347357" />
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564643348098">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564645085342">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
@@ -286,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>CustomAuthInfo</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>CustomAuthInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
