@@ -166,10 +166,10 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564634505555">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564635362162">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/StatusAll.java" timestamp="1563942091441">
         <mark key="[" line="10" column="27" />
@@ -283,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGh0dHAuaHR0cEJhc2ljKCkuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQogICAgICAgIC5hbnRNYXRjaGVycygiL3YxL2xvcmEvKioiKQogICAgICAgIC5hdXRoZW50aWNhdGVkKCkKICAgICAgICAuYW5kKCkKICAgICAgICAuY3NyZigpCiAgICAgICAgLmRpc2FibGUoKTs=</text>
+        <text>import org.springframework.context.annotation.Configuration;</text>
       </register>
       <register name="-" type="4">
-        <text>authorizeRequests()</text>
+        <text>import org.springframework.context.annotation.Configuration;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
