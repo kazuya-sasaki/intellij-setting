@@ -166,10 +166,10 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564644386241">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564649999513">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/StatusAll.java" timestamp="1563942091441">
         <mark key="[" line="10" column="27" />
@@ -227,7 +227,7 @@
         <mark key="[" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/MyConfigure.java" timestamp="1564624347357" />
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564647257934">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564648764072">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -288,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>Ordered.HIGHEST_PRECEDENCE</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Ordered.HIGHEST_PRECEDENCE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
@@ -300,45 +300,34 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
-        <text>@Getter
-@Setter</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBLZXljbG9ha0F1dGhlbnRpY2F0aW9uUHJvdmlkZXIga2V5Y2xvYWtBdXRoZW50aWNhdGlvblByb3ZpZGVyOw==</text>
       </register>
       <register name="2" type="4">
-        <text>@Getter
-@Component</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjb25maWd1cmVHbG9iYWwoQXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlciBhdXRoKSB7CiAgICBhdXRoLmF1dGhlbnRpY2F0aW9uUHJvdmlkZXIoa2V5Y2xvYWtBdXRoZW50aWNhdGlvblByb3ZpZGVyKTsKICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCiAgICAgICAgQFNldHRlcg==</text>
+        <text encoding="base64">CiAgQEF1dG93aXJlZA==</text>
       </register>
       <register name="4" type="4">
         <text>@Getter
 @Setter</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIGh0dHAuaHR0cEJhc2ljKCkuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQogICAgICAgIC5hbnRNYXRjaGVycygiL3YxL2xvcmEvKioiKQogICAgICAgIC5hdXRoZW50aWNhdGVkKCkKICAgICAgICAuYW5kKCkKICAgICAgICAuY3NyZigpCiAgICAgICAgLmRpc2FibGUoKTs=</text>
+        <text>@Getter
+@Component</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBAR2V0TWFwcGluZwogIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICBTZWN1cml0eUNvbnRleHQgc2VjdXJpdHlDb250ZXh0ID0gU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKTsKICAgIExvZ2luUHJpbmNpcGFsIGxvZ2luUHJpbmNpcGFsID0KICAgICAgICAoTG9naW5QcmluY2lwYWwpIHNlY3VyaXR5Q29udGV4dC5nZXRBdXRoZW50aWNhdGlvbigpLmdldFByaW5jaXBhbCgpOwoKICAgIHJldHVybiAiSGVsbG8gIiArIGxvZ2luUHJpbmNpcGFsLmdldEVtcGxveWVlTnVtYmVyKCkgKyAiISI7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBAR2V0dGVyCiAgICAgICAgQFNldHRlcg==</text>
       </register>
       <register name="7" type="4">
-        <text>'2019-07-04 01:00:00', 'G08', '{&quot;data&quot;: {&quot;cmd_id&quot;: &quot;P07&quot;, &quot;meter_id&quot;: &quot;meterdummy&quot;}}');
-
-
-INSERT IGNORE INTO
-       devices (device_eui, meter_id, latest_receive)
-   VALUES
-       (/* devEui */'euidummy10',
-        /* meterId */'meterdummy10',
-        /* time */'2019-07-01 12:00:00'
-        );</text>
+        <text>@Getter
+@Setter</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8KICByZWNlaXZlX2RhdGEoaWRfZGV2aWNlcywgdHMsIGNtZF9pZCwganNvbl9kYXRhKQpWQUxVRVMoCiAoU0VMRUNUIGlkIEZST00gZGV2aWNlcyB3aGVyZSBkZXZpY2VfZXVpID0gJ2V1aWR1bW15MTAnKSwgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGh0dHAuaHR0cEJhc2ljKCkuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQogICAgICAgIC5hbnRNYXRjaGVycygiL3YxL2xvcmEvKioiKQogICAgICAgIC5hdXRoZW50aWNhdGVkKCkKICAgICAgICAuYW5kKCkKICAgICAgICAuY3NyZigpCiAgICAgICAgLmRpc2FibGUoKTs=</text>
       </register>
       <register name="9" type="4">
-        <text>mport org.seasar.doma.jdbc.SelectOptions;
-
-import java.util.List;</text>
+        <text encoding="base64">ICBAR2V0TWFwcGluZwogIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICBTZWN1cml0eUNvbnRleHQgc2VjdXJpdHlDb250ZXh0ID0gU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKTsKICAgIExvZ2luUHJpbmNpcGFsIGxvZ2luUHJpbmNpcGFsID0KICAgICAgICAoTG9naW5QcmluY2lwYWwpIHNlY3VyaXR5Q29udGV4dC5nZXRBdXRoZW50aWNhdGlvbigpLmdldFByaW5jaXBhbCgpOwoKICAgIHJldHVybiAiSGVsbG8gIiArIGxvZ2luUHJpbmNpcGFsLmdldEVtcGxveWVlTnVtYmVyKCkgKyAiISI7CiAgfQ==</text>
       </register>
     </registers>
     <search>
