@@ -165,15 +165,17 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564722383906" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564723863523">
+        <mark key="[" line="58" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/StatusAll.java" timestamp="1563942091441">
         <mark key="[" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/util/Builder.java" timestamp="1559868736547">
         <mark key="[" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/application.properties" timestamp="1564715118079">
-        <mark key="[" line="12" column="11" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/resources/application.properties" timestamp="1564724603186">
+        <mark key="[" line="11" column="10" />
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="11" />
       </file>
@@ -196,6 +198,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/request/CustomAuthInfo.java" timestamp="1564724596776">
+        <mark key="[" line="7" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/UserDto.java" timestamp="1559711804355">
         <mark key="[" line="19" column="3" />
@@ -222,7 +227,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/SimpleResponseListDto.java" timestamp="1560394689109">
         <mark key="[" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564720435041" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564724793637" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
       </file>
@@ -278,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>@Order(1)</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>@Order(1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
