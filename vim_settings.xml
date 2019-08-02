@@ -171,9 +171,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564723863523">
-        <mark key="[" line="58" column="42" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564730678262" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/entity/StatusAll.java" timestamp="1563942091441">
         <mark key="[" line="10" column="27" />
       </file>
@@ -234,7 +232,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/SimpleResponseListDto.java" timestamp="1560394689109">
         <mark key="[" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564728620108" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564729989312" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
       </file>
@@ -290,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKiogg4yDi4OAlrwgKi8KICBwcml2YXRlIGZpbmFsIFN0cmluZyByZWFsbU5hbWUgPSAiaG9nZSI7CgogIC8qIEBzZWUgamF2YXguc2VydmxldC5GaWx0ZXIjZG9GaWx0ZXIoamF2YXguc2VydmxldC5TZXJ2bGV0UmVxdWVzdCwgamF2YXguc2VydmxldC5TZXJ2bGV0UmVzcG9uc2UsIGphdmF4LnNlcnZsZXQuRmlsdGVyQ2hhaW4pICovCiAgcHVibGljIHZvaWQgZG9GaWx0ZXIoU2VydmxldFJlcXVlc3QgcmVxdWVzdCwgU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlLCBGaWx0ZXJDaGFpbiBmaWx0ZXJDaGFpbikKICAgICAgdGhyb3dzIElPRXhjZXB0aW9uLCBTZXJ2bGV0RXhjZXB0aW9uIHsKCiAgICBCeXRlQXJyYXlJbnB1dFN0cmVhbSBiaW4gPSBudWxsOwogICAgQnVmZmVyZWRSZWFkZXIgYnIgPSBudWxsOwogICAgdHJ5IHsKICAgICAgSHR0cFNlcnZsZXRSZXF1ZXN0IGh0dHBSZXEgPSAoSHR0cFNlcnZsZXRSZXF1ZXN0KSByZXF1ZXN0OwoKICAgICAgU3RyaW5nIGJhc2ljQXV0aERhdGEgPSBodHRwUmVxLmdldEhlYWRlcigiYXV0aG9yaXphdGlvbiIpOwoKICAgICAgLy8gQmFzaWOURo/YgqmC54/ulfGC8I7mk74KICAgICAgU3RyaW5nIGJhc2ljQXV0aEJvZHkgPSBiYXNpY0F1dGhEYXRhLnN1YnN0cmluZyg2KTsgLy8gZXggJ0Jhc2ljIGRHOXRZMkYwT25SdmJXTmhkQT09ICcKICAgICAgLy8gICAgICAgICAgICBiaW4gPSBuZXcgQnl0ZUFycmF5SW5wdXRTdHJlYW0oYmFzaWNBdXRoQm9keS5nZXRCeXRlcygpKTsKICAgICAgLy8gICAgICAgICAgICBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcigKICAgICAgLy8gICAgICAgICAgICAgICAgICAgIG5ldyBJbnB1dFN0cmVhbVJlYWRlcihNaW1lVXRpbGl0eS5kZWNvZGUoYmluLCJiYXNlNjQiKSkpOwogICAgICAvLwogICAgICAvLyAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgYnVmID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgLy8gICAgICAgICAgICBTdHJpbmcgbGluZSA9IG51bGw7CiAgICAgIC8vICAgICAgICAgICAgd2hpbGUgKChsaW5lID0gYnIucmVhZExpbmUoKSkhPW51bGwpIHsKICAgICAgLy8gICAgICAgICAgICAgICAgYnVmLmFwcGVuZChsaW5lKTsKICAgICAgLy8gICAgICAgICAgICB9CiAgICAgIC8vICAgICAgICAgICAgU3RyaW5nW10gbG9naW5JbmZvID0gYnVmLnRvU3RyaW5nKCkuc3BsaXQoIjoiKTsKICAgICAgLy8gICAgICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSBDb2xsZWN0aW9uVXRpbC5zYWZlQXJyYXlFbGVtZW50KGxvZ2luSW5mbywwLCIiKTsKICAgICAgLy8gICAgICAgICAgICBTdHJpbmcgcGFzc3dvcmQgPSBDb2xsZWN0aW9uVXRpbC5zYWZlQXJyYXlFbGVtZW50KGxvZ2luSW5mbywxLCIiKTsKCiAgICAgIGJvb2xlYW4gaXNBdXRob3JpemVkID0gdHJ1ZTsgLyogdXNlcm5hbWUgcGFzc3dvcmQggvCXmJdwgrWCxJRGj9iC8I7AjnsgKi8KCiAgICAgIGlmICghaXNBdXRob3JpemVkKSB7CiAgICAgICAgLy8gg3WDiYNFg1WCySBVbkF1dGhvcml6ZWSDR4OJgVsoNDAxKYLwldSCtwogICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgaHR0cFJlcyA9IChIdHRwU2VydmxldFJlc3BvbnNlKSByZXNwb25zZTsKICAgICAgICBodHRwUmVzLnNldEhlYWRlcigiV1dXLUF1dGhlbnRpY2F0ZSIsICJCYXNpYyByZWFsbT0iICsgdGhpcy5yZWFsbU5hbWUpOwogICAgICAgIGh0dHBSZXMuc2V0Q29udGVudFR5cGUoInRleHQvaHRtbCIpOwogICAgICAgIGh0dHBSZXMuc2VuZEVycm9yKEh0dHBTZXJ2bGV0UmVzcG9uc2UuU0NfVU5BVVRIT1JJWkVEKTsgLy8gNDAxCiAgICAgIH0gZWxzZSB7CiAgICAgICAgZmlsdGVyQ2hhaW4uZG9GaWx0ZXIocmVxdWVzdCwgcmVzcG9uc2UpOwogICAgICB9CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgU2VydmxldEV4Y2VwdGlvbihlKTsKICAgIH0gZmluYWxseSB7CiAgICAgIHRyeSB7CiAgICAgICAgaWYgKGJpbiAhPSBudWxsKSBiaW4uY2xvc2UoKTsKICAgICAgICBpZiAoYnIgIT0gbnVsbCkgYnIuY2xvc2UoKTsKICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgfQogICAgfQogIH0=</text>
+        <text encoding="base64">ICAgICAgICAuaWdub3JpbmdBbnRNYXRjaGVycygiL3YxL2xvcmEvKioiKQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIEN1c3RvbUF1dGhJbmZvLlVzZXJDcmVkZW50aWFsIGNyZWRlbnRpYWwgOiBhdXRoSW5mby5nZXRDcmVkZW50aWFscygpKSB7</text>
+        <text encoding="base64">ICAgICAgICAuaWdub3JpbmdBbnRNYXRjaGVycygiL3YxL2xvcmEvKioiKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFw+</text>
