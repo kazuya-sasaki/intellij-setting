@@ -95,7 +95,6 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/DeviceInfoMetaDataDto.java" timestamp="1563423720747">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/filter/KeycloakAuthenticationCustomProcessingFilter.java" timestamp="1564628506468" />
       <file name="$USER_HOME$/Documents/GitHub/muratamdms/src/test/java/co/tripodworks/iot/muratamdms/MuratamdmsApplicationTests.java" timestamp="1562229360420">
         <mark key="[" line="15" column="0" />
       </file>
@@ -153,7 +152,6 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/insert.sql" timestamp="1559698546376">
         <mark key="[" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/DeviceController.java" timestamp="1564632889678" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/MetaDataDto.java" timestamp="1564548886946">
         <mark key="[" line="17" column="0" />
       </file>
@@ -166,7 +164,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dto/response/common/ResponseListDto.java" timestamp="1564382272839">
         <mark key="[" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564652577682">
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/SecurityConfig.java" timestamp="1564707519494">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -216,7 +214,7 @@
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/StatusDao.java" timestamp="1564361687403">
         <mark key="[" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/LoginPrincipal.java" timestamp="1564624560426" />
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/MdmsApplication.java" timestamp="1564708687818" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/resources/META-INF/co/tripodworks/iot/alccloudkeycloak/dao/UserDao/updateBySub.sql" timestamp="1559696513831">
         <mark key="[" line="0" column="11" />
       </file>
@@ -226,12 +224,7 @@
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/dto/SimpleResponseListDto.java" timestamp="1560394689109">
         <mark key="[" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/MyConfigure.java" timestamp="1564624347357" />
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564648764072">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/config/BasicSecurityConfig.java" timestamp="1564708380416" />
       <file name="$USER_HOME$/Documents/GitHub/alc-cloud-keycloak3/build.gradle" timestamp="1559547898536">
         <mark key="[" line="20" column="15" />
       </file>
@@ -244,7 +237,6 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/controller/LoRaController.java" timestamp="1564625590159" />
       <file name="$USER_HOME$/Documents/GitHub/murata-mdms-backend/src/main/java/com/idnsmartmeter/mdms/dao/CommandDao.java" timestamp="1564361919406">
         <mark key="[" line="21" column="28" />
       </file>
@@ -288,7 +280,8 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGh0dHAuYXV0aG9yaXplUmVxdWVzdHMoKS5hbnRNYXRjaGVyKCIvYXBpLyoqIikuYXV0aGVudGljYXRlZCgp</text>
+        <text>@EnableWebSecurity
+@Order(1)</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIGh0dHAuYXV0aG9yaXplUmVxdWVzdHMoKS5hbnRNYXRjaGVyKCIvYXBpLyoqIikuYXV0aGVudGljYXRlZCgp</text>
@@ -300,34 +293,34 @@
         <text>Alcoholテーブル</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBLZXljbG9ha0F1dGhlbnRpY2F0aW9uUHJvdmlkZXIga2V5Y2xvYWtBdXRoZW50aWNhdGlvblByb3ZpZGVyOw==</text>
+        <text>@EnableWebSecurity
+@Order(1)</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjb25maWd1cmVHbG9iYWwoQXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlciBhdXRoKSB7CiAgICBhdXRoLmF1dGhlbnRpY2F0aW9uUHJvdmlkZXIoa2V5Y2xvYWtBdXRoZW50aWNhdGlvblByb3ZpZGVyKTsKICB9</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkIHByaXZhdGUgQ3VzdG9tQXV0aEluZm8gYXV0aEluZm87IC8vIGFwcGxpY2F0aW9uLnByb3BlcnRpZXOCxZDdkuiCtYK9lEaP2I/ulfEKCiAgQE92ZXJyaWRlCiAgcHJvdGVjdGVkIHZvaWQgY29uZmlndXJlKEF1dGhlbnRpY2F0aW9uTWFuYWdlckJ1aWxkZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlcikKICAgICAgdGhyb3dzIEV4Y2VwdGlvbiB7</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgQEF1dG93aXJlZA==</text>
+        <text encoding="base64">ICAgIC8vIGFwcGxpY2F0aW9uLnByb3BlcnRpZXOCxZDdkuiCtYK9g4aBW4NVSUSBRYNwg1iDj4Fbg2iC8GluTWVtb3J5gsmC4ILCCiAgICAvLyBhcHBsaWNhdGlvbi5wcm9wZXJ0aWVzgsmQ3ZLogreC6YNwg1iDj4Fbg2iCzUJDcnlwdILFg26DYoNWg4WJu4K1gsSCqIKtCiAgICBmb3IgKEN1c3RvbUF1dGhJbmZvLlVzZXJDcmVkZW50aWFsIGNyZWRlbnRpYWwgOiBhdXRoSW5mby5nZXRDcmVkZW50aWFscygpKSB7CiAgICAgIGF1dGhlbnRpY2F0aW9uTWFuYWdlckJ1aWxkZXIKICAgICAgICAgIC5pbk1lbW9yeUF1dGhlbnRpY2F0aW9uKCkKICAgICAgICAgIC53aXRoVXNlcihjcmVkZW50aWFsLmdldFVzZXJOYW1lKCkpCiAgICAgICAgICAucGFzc3dvcmQoY3JlZGVudGlhbC5nZXRQYXNzd29yZCgpKQogICAgICAgICAgLnJvbGVzKCJVU0VSIik7CiAgICB9CiAgfQoKICBAT3ZlcnJpZGUKICBwcm90ZWN0ZWQgdm9pZCBjb25maWd1cmUoSHR0cFNlY3VyaXR5IGh0dHApIHRocm93cyBFeGNlcHRpb24gewogICAgaHR0cC5odHRwQmFzaWMoKS5yZWFsbU5hbWUoIkN1c3RvbSBSZWFsbSIpOyAvLyBCYXNpYyCURo/YgvCXTIz4gsmCt4LpCiAgICAvLyBodHRwLmF1dGhvcml6ZVJlcXVlc3RzKCkuYW55UmVxdWVzdCgpLmF1dGhlbnRpY2F0ZWQoKTsgLy8gkVOCxILMg4qDToNHg1iDZ5HOgrWBQZRGj9iC8I1zgqQKICAgIGh0dHAuYXV0aG9yaXplUmVxdWVzdHMoKS5hbnRNYXRjaGVycygiL3YxL2F1dGgvKioiKS5hdXRoZW50aWNhdGVkKCkuYW5kKCkuY3NyZigpLmRpc2FibGUoKTsKICAgIGh0dHAuY3NyZigpLmRpc2FibGUoKTsgLy8ggqCCpoLEQ1NSRpHOjfSCzZazjPiCyZDdkugKICAgIC8vIINBg06DWoNYgsyTc5N4gUGURo/YgvCNc4KkgrGCxoLGgrWBQYNag2KDVoOHg5OKx5edgs2Nc4LtgsiCogogICAgaHR0cC5zZXNzaW9uTWFuYWdlbWVudCgpLnNlc3Npb25DcmVhdGlvblBvbGljeShTZXNzaW9uQ3JlYXRpb25Qb2xpY3kuU1RBVEVMRVNTKTsKICB9CgogIEBCZWFuCiAgcHVibGljIFBhc3N3b3JkRW5jb2RlciBwYXNzd29yZEVuY29kZXIoKSB7CiAgICByZXR1cm4gbmV3IEJDcnlwdFBhc3N3b3JkRW5jb2RlcigpOyAvLyCDcINYg4+BW4Nogs1CQ3J5cHSCxYNug2KDVoOFibuCt4LpCiAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>@Getter
-@Setter</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBLZXljbG9ha0F1dGhlbnRpY2F0aW9uUHJvdmlkZXIga2V5Y2xvYWtBdXRoZW50aWNhdGlvblByb3ZpZGVyOw==</text>
       </register>
       <register name="5" type="4">
-        <text>@Getter
-@Component</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjb25maWd1cmVHbG9iYWwoQXV0aGVudGljYXRpb25NYW5hZ2VyQnVpbGRlciBhdXRoKSB7CiAgICBhdXRoLmF1dGhlbnRpY2F0aW9uUHJvdmlkZXIoa2V5Y2xvYWtBdXRoZW50aWNhdGlvblByb3ZpZGVyKTsKICB9</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBAR2V0dGVyCiAgICAgICAgQFNldHRlcg==</text>
+        <text encoding="base64">CiAgQEF1dG93aXJlZA==</text>
       </register>
       <register name="7" type="4">
         <text>@Getter
 @Setter</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIGh0dHAuaHR0cEJhc2ljKCkuYW5kKCkuYXV0aG9yaXplUmVxdWVzdHMoKQogICAgICAgIC5hbnRNYXRjaGVycygiL3YxL2xvcmEvKioiKQogICAgICAgIC5hdXRoZW50aWNhdGVkKCkKICAgICAgICAuYW5kKCkKICAgICAgICAuY3NyZigpCiAgICAgICAgLmRpc2FibGUoKTs=</text>
+        <text>@Getter
+@Component</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBAR2V0TWFwcGluZwogIHB1YmxpYyBTdHJpbmcgaW5kZXgoKSB7CiAgICBTZWN1cml0eUNvbnRleHQgc2VjdXJpdHlDb250ZXh0ID0gU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKTsKICAgIExvZ2luUHJpbmNpcGFsIGxvZ2luUHJpbmNpcGFsID0KICAgICAgICAoTG9naW5QcmluY2lwYWwpIHNlY3VyaXR5Q29udGV4dC5nZXRBdXRoZW50aWNhdGlvbigpLmdldFByaW5jaXBhbCgpOwoKICAgIHJldHVybiAiSGVsbG8gIiArIGxvZ2luUHJpbmNpcGFsLmdldEVtcGxveWVlTnVtYmVyKCkgKyAiISI7CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBAR2V0dGVyCiAgICAgICAgQFNldHRlcg==</text>
       </register>
     </registers>
     <search>
