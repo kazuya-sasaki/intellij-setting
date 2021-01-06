@@ -2342,7 +2342,7 @@
                   </entry>
                   <entry key="JUnit">
                     <value>
-                      <FeaturePluginData displayName="JUnit 問題" pluginName="JUnit" pluginId="JUnit" />
+                      <FeaturePluginData displayName="JUnit" pluginName="JUnit" pluginId="JUnit" />
                     </value>
                   </entry>
                   <entry key="JarApplication">
@@ -2632,7 +2632,7 @@
                   </entry>
                   <entry key="web">
                     <value>
-                      <FeaturePluginData displayName="ウェブ" pluginName="Java EE: Web/Servlets" pluginId="com.intellij.javaee.web" />
+                      <FeaturePluginData displayName="Web" pluginName="Java EE: Web/Servlets" pluginId="com.intellij.javaee.web" />
                     </value>
                   </entry>
                   <entry key="webservices">
