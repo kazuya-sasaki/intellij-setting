@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ファイル '...\src\main\java\co\tripodworks\iot\alccloudkeycloak\controller\OperationSettingController.java [alc-cloud-keycloak.main]'" />
-    <option name="defaultScopeName" value="ファイル '...\src\main\java\co\tripodworks\iot\alccloudkeycloak\controller\OperationSettingController.java [alc-cloud-keycloak.main]'" />
+    <option name="customScope" value="プロジェクト 'alc-cloud-keycloak'" />
+    <option name="defaultScopeName" value="プロジェクト 'alc-cloud-keycloak'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="ファイル '...\src\main\java\co\tripodworks\iot\alccloudkeycloak\controller\OperationSettingController.java [alc-cloud-keycloak.main]'" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'alc-cloud-keycloak'" />
   </component>
 </application>
