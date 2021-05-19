@@ -2249,7 +2249,7 @@
                   </entry>
                   <entry key="AndroidTestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android 計装テスト" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android インストルメントテスト" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="AntRunConfiguration">
